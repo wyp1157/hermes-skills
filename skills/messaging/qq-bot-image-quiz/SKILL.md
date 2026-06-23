@@ -105,20 +105,21 @@ For single-choice and true/false questions, set `click_limit: 1` and use one cal
 
 ## Callback Polling Pattern
 
-QQ button callbacks arrive asynchronously through the gateway, not through the original send request. A robust quiz flow needs a polling or event bridge:
+QQ button callbacks arrive asynchronously through the gateway, not through the original send request. A robust quiz flow should use a single long-lived auto loop:
 
 1. Gateway receives `INTERACTION_CREATE`.
 2. Adapter extracts `button_data`.
 3. Adapter writes or forwards the answer event, for example to `button_answer.json`.
-4. Quiz script polls that event source, validates the answer, and sends the next question.
+4. The same quiz process reads the event, validates the answer, and sends the next question.
+5. Repeat until the quiz or gate is complete.
 
-Example polling command for a script-based gate:
+Recommended production command for the driving-test gate:
 
 ```bash
-cd ~/.hermes/scripts && python3 driving-quiz.py poll 900
+cd ~/.hermes/scripts && python3 -u driving-quiz.py quiz 20 900
 ```
 
-Use one polling window per question. Stop polling once the quiz or gate is complete.
+Avoid production chains like `start -> poll -> answer -> poll`. A one-shot `poll` normally exits after the first answer; if it is not restarted after every question, the quiz stalls after Q1. Keep manual `poll` only for debugging or legacy compatibility.
 
 ## Fallbacks
 

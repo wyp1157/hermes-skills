@@ -9,6 +9,7 @@
 | 技能 | 路径 | 说明 |
 |------|------|------|
 | 🎯 QQ Bot 图题答题 | `skills/messaging/qq-bot-image-quiz/` | QQ机器人图题问答流程：发图 + InlineKeyboard按钮 + 回调轮询完整方案 |
+| 🚦 知识验证门禁 | `skills/productivity/knowledge-gate-system/` | 前置知识验证门禁：全自动 QQ 按钮答题循环、错题跟踪、Cron 联动、成都/四川科目一地区过滤 |
 
 ---
 
@@ -20,6 +21,10 @@
 hermes skills install \
   https://raw.githubusercontent.com/wyp1157/hermes-skills/main/skills/messaging/qq-bot-image-quiz/SKILL.md \
   --name qq-bot-image-quiz
+
+hermes skills install \
+  https://raw.githubusercontent.com/wyp1157/hermes-skills/main/skills/productivity/knowledge-gate-system/SKILL.md \
+  --name knowledge-gate-system
 ```
 
 安装后 Hermes Agent 自动加载该技能，在相关场景下会按技能指引工作。
@@ -42,10 +47,23 @@ cd hermes-skills
 **核心流程**：
 1. 先发题目图片（QQ 原生图片消息）
 2. 紧跟 Markdown 文字 + InlineKeyboard 答题按钮
-3. 通过网关回调轮询获取用户选择
+3. 通过网关回调获取用户选择
 4. 支持单选/多选/判断题
 
 **详细内容**：参见 `skills/messaging/qq-bot-image-quiz/SKILL.md`
+
+### 知识验证门禁
+
+**场景**：在执行新闻推送、日常任务或其他 Agent 能力前，要求用户先完成知识测验。
+
+**核心流程**：
+1. `status` 检查当天门禁状态
+2. `quiz N timeout` 启动单进程全自动答题循环
+3. QQ 按钮回调写入答案文件，脚本自动判题并推进下一题
+4. 完成后写入 `completed`，错题进入错题本
+5. 科目一默认过滤为全国题 + 四川成都题，避免混入外地地域题
+
+**详细内容**：参见 `skills/productivity/knowledge-gate-system/SKILL.md`
 
 ---
 
