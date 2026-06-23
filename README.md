@@ -10,6 +10,7 @@
 |------|------|------|
 | 🎯 QQ Bot 图题答题 | `skills/messaging/qq-bot-image-quiz/` | QQ机器人图题问答流程：发图 + InlineKeyboard按钮 + 回调轮询完整方案 |
 | 🚦 知识验证门禁 | `skills/productivity/knowledge-gate-system/` | 前置知识验证门禁：全自动 QQ 按钮答题循环、错题跟踪、Cron 联动、成都/四川科目一地区过滤 |
+| 📰 新闻去重追踪 | `skills/cron/news-dedup-tracker/` | 基于文件的新闻推送去重系统：历史记录、标题/URL/事件匹配、自动裁剪200条上限、配套 news-track.py 脚本 |
 
 ---
 
@@ -25,6 +26,10 @@ hermes skills install \
 hermes skills install \
   https://raw.githubusercontent.com/wyp1157/hermes-skills/main/skills/productivity/knowledge-gate-system/SKILL.md \
   --name knowledge-gate-system
+
+hermes skills install \
+  https://raw.githubusercontent.com/wyp1157/hermes-skills/main/skills/cron/news-dedup-tracker/SKILL.md \
+  --name news-dedup-tracker
 ```
 
 安装后 Hermes Agent 自动加载该技能，在相关场景下会按技能指引工作。
@@ -64,6 +69,18 @@ cd hermes-skills
 5. 科目一默认过滤为全国题 + 四川成都题，避免混入外地地域题
 
 **详细内容**：参见 `skills/productivity/knowledge-gate-system/SKILL.md`
+
+### 新闻去重追踪
+
+**场景**：Cron 定时推送重大新闻时，避免同一新闻重复推送。
+
+**核心流程**：
+1. 安装 news-track.py 脚本，初始化新闻历史 JSON 文件
+2. 在 Cron prompt 中加入文件判重规则
+3. 每轮推送前读取 history 文件 → 判重 → 推送 → 记录新条目
+4. 自动裁剪历史记录到最近 200 条
+
+**详细内容**：参见 `skills/cron/news-dedup-tracker/SKILL.md`
 
 ---
 
