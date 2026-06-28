@@ -31,6 +31,23 @@ curl -L -o ~/.hermes/driving-test/questions.json \
 └── driving-quiz.py             # 答题引擎
 ```
 
+## 持久化文件
+
+| 文件 | 作用 | 生命周期 |
+|------|------|---------|
+| `quiz_state.json` | 当日答题状态 | 逐日重置 |
+| `correct_questions.json` | 已答对题目ID列表 | 整个循环（全部刷完重置） |
+| `wrong_questions.json` | 错题本（含错误次数） | 答对后自动移除 |
+
+## 答题去重策略
+
+**核心规则：正确的题目在当前循环内不重复出现。**
+
+- 选题时：排除 `correct_questions.json` 中的题 + 排除 `wrong_questions.json` 中的题 → 抽新鲜题
+- 错题优先：从错题池中抽最多一半，确保错题反复出现直到答对
+- 答对立即移除：答对后同时从 `wrong_questions.json` 移除该题 → 后续不再抽到
+- 循环重置：当 `correct_questions.json` 覆盖全部题库时，清空正确记录，新一轮循环开始
+
 ## 状态文件格式 (quiz_state.json)
 
 ```json
