@@ -1,0 +1,155 @@
+[
+  {
+    "id": "20190410104636m4x5sxksaruwqseggw7p56",
+    "question": "如图所示，驾驶车辆经过人行横道时，驾驶人未发现人行横道两侧有行人等待通过，即可加速行驶通过。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "行经人行横道，无论有无行人通过，都要减速。",
+    "count": 1,
+    "last_wrong": "2026-06-16 08:54:13.984170"
+  },
+  {
+    "id": "20190410102716hijye4kxnughrvzzxrn9mp",
+    "question": "右侧标志指示距离设有电子不停车收费车道的收费站1公里。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "标志内有ETC字样，是电子不停车收费车道，通过收费站无需停车，会自动识别自动扣费。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:05:14.940132"
+  },
+  {
+    "id": "20190410102525cpqqiepcadqtmnsy1qcnqv",
+    "question": "如图所示，机动车在这样的城市道路上行驶，最高的行驶速度不得超过50公里/小时。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "无中心线城3公4，有中心线城5公7。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:06:23.721824"
+  },
+  {
+    "id": "20200513154400gf21gvvupdffrgs6xxz9ds",
+    "question": "逃离隧道火灾现场时，应向哪个方向逃跑？",
+    "answer": "A",
+    "answer_text": "烟雾流相反方向",
+    "explain": "隧道内发生火灾，应及时撤离车辆，在车后设置警告标志，然后朝着火势、烟雾流相反的方向逃离。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:07:40.175374"
+  },
+  {
+    "id": "202008181732512bbtxdobgrcjdpcv6kgmnb",
+    "question": "采用指压止血法为动脉出血伤员止血时，拇指压住伤口的什么位置？",
+    "answer": "A",
+    "answer_text": "近心端动脉",
+    "explain": "动脉血液流动靠心脏。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:08:45.914312"
+  },
+  {
+    "id": "202010161813114mcd7gufrzy583q6ppusjx",
+    "question": "驾驶机动车在距离加油站、消防栓前多少米以内的路段不得停车？",
+    "answer": "A",
+    "answer_text": "30米",
+    "explain": "巧记：站30口50。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:08:53.899579"
+  },
+  {
+    "id": "202109221504519qymikt7jvcinqdkzqqfav",
+    "question": "驾驶机动车在城市道路行驶，距前方障碍物很近时，应采取什么应急措施？",
+    "answer": "C",
+    "answer_text": "先转向避让，后制动减速",
+    "explain": "如果是在高速公路上，一定要先制动再考虑转向。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:09:30.427078"
+  },
+  {
+    "id": "20220412180652kgkgrzkhfqdtgycsvnzcb9",
+    "question": "机动车驾驶人在办理期满换领驾驶证时，可以到具有健康体检资质的二级以上医院、乡镇卫生院、社区卫生服务中心、健康体检中心等医疗机构体检。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:10:00.700286"
+  },
+  {
+    "id": "20190410102541ddgbi8qjxgwji9mskms6fx",
+    "question": "这个标志是何含义？",
+    "answer": "A",
+    "answer_text": "交叉路口预告",
+    "explain": "蓝牌是指示标志，是为告知驾驶人前方的路口信息。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:10:33.315032"
+  },
+  {
+    "id": "20190410102544jagmyysrvgk55zfdzhpqym",
+    "question": "这个标志是何含义？",
+    "answer": "C",
+    "answer_text": "禁止长时停车",
+    "explain": "表示在限行的范围内，禁止一切车辆长时间停放。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:10:49.084712"
+  },
+  {
+    "id": "20210205114628qrnrcvu2duqk2ykprhmyjw",
+    "question": "驾驶与准驾车型不符的机动车的，一次记3分。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "常考记9分的情形：准驾车型不符；未悬挂或故意遮挡、污损号牌；高速快速路违法停车；没资格还开校车。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:11:09.701441"
+  },
+  {
+    "id": "202005131544006brpqeaunioytbg3ksf3um",
+    "question": "这个标志是何含义？",
+    "answer": "A",
+    "answer_text": "消防设备箱标志",
+    "explain": "此标志用于说明建筑配备各种消防设备。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:11:21.860980"
+  },
+  {
+    "id": "20190410102730bep3kn92buufbsnqgertnn",
+    "question": "通过这种路面条件较好的窄桥怎样控制车速？",
+    "answer": "D",
+    "answer_text": "不超过30公里/小时",
+    "explain": "在容易发生危险的路段行车，车速不得超30公里/小时。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:13:24.867806"
+  },
+  {
+    "id": "2019041010281088c7cadoi4eb5sxvquvwuw",
+    "question": "长途客运汽车驾驶人夜间连续驾驶2小时的，休息时间不少于10分钟。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "客运司机夜间开车2小时，要休息20分钟。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:14:03.526142"
+  },
+  {
+    "id": "201904101027132wjrct741vxhalensrtsvt",
+    "question": "关于停车，以下说法正确的是什么？",
+    "answer": "A,C,D",
+    "answer_text": "应靠道路右侧, 开关车门不得妨碍其他车辆和行人通行, 交叉路口50米内不得停车",
+    "explain": "停车是开右转向灯，不是左转向灯。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:14:33.893607"
+  },
+  {
+    "id": "20191126190216jbhtvucr1ydbfn4hrn5hne",
+    "question": "驾驶机动车在同方向只有1条机动车道的城市道路，最高速度不能超过每小时70公里。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "无中心线城3公4，有中心线城5公7。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:15:09.205340"
+  },
+  {
+    "id": "202203221442113wqxjhzq4hffapyk4bhvvb",
+    "question": "驾驶机动车行至山谷出口处，遇到横风导致车辆行驶方向偏移时，应双手握稳转向盘，向来风相反的一侧适当修正，力度要轻，不可急转转向盘。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "遇横风急转方向盘，容易导致翻车。",
+    "count": 1,
+    "last_wrong": "2026-06-30 19:15:21.647574"
+  }
+]
