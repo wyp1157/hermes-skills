@@ -740,10 +740,10 @@ def cmd_quiz(total_questions=DEFAULT_QUIZ_COUNT, poll_timeout=600):
     state = load_state()
     today = str(date.today())
     
-    # 如果今天已完成，不重复
+    # 如果今天已完成，说明是早场做完了，现在是晚场时间 — 允许继续
     if state["today"] == today and state["status"] == "completed":
-        print("✅ 今日答题已完成，不用重复了！")
-        return
+        print("🔄 今日已完成一场，启动晚场新测验！")
+        # 晚场直接继续，不 return，让下面重新选题
     
     # 如果有进行中的，跳过（防止实时重大新闻+不定期抽查两个cron同时启动冲突）
     if state["today"] == today and state["status"] == "in_progress":
