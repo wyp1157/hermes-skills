@@ -9,66 +9,111 @@
     "last_wrong": "2026-06-16 08:54:13.984170"
   },
   {
-    "id": "20220408192504rutrzbszvr7ur3vyv61z1v",
-    "question": "驾驶人有下列哪种违法行为一次记1分？",
-    "answer": "D",
-    "answer_text": "不按规定会车",
-    "explain": "常考记1分情形：不系安全带；骑摩托不戴头盔；违反标志标线；不按规定用灯光；不按规定会车或在高速路、快速路以外的道路不按规定倒车、掉头的。",
+    "id": "201904101025496w3mbhxhvmhjgstbx2q1qs",
+    "question": "如图所示，A车在此时进入左侧车道是因为进入实线区不得变更车道。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "虚线可跨越，实线不可跨越。",
     "count": 1,
-    "last_wrong": "2026-07-01 09:31:57.360436"
+    "last_wrong": "2026-07-01 19:04:03.704966"
   },
   {
-    "id": "20220322144211hcecceueigimrbxo8vb7yc",
-    "question": "在山区宽阔的缓上坡路段超车时，错误的做法是什么？",
+    "id": "20200727150305cuazf8uvydjusmycvgx9fo",
+    "question": "进入环形交叉路口的机动车和驶出路口的机动车相遇时，驶出路口的机动车享有先行权。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "已在环岛内的车辆拥有优先通行权。",
+    "count": 1,
+    "last_wrong": "2026-07-01 19:07:30.175112"
+  },
+  {
+    "id": "20190410102540jatp1sdnqskcy8blfxfpjv",
+    "question": "这个地面标记是什么标线？",
+    "answer": "A",
+    "answer_text": "人行横道预告",
+    "explain": "该标线是为提醒车辆减速慢行，礼让行人。",
+    "count": 1,
+    "last_wrong": "2026-07-01 19:07:59.576079"
+  },
+  {
+    "id": "20220412175301w3rlshtyxndsxteihwtz7p",
+    "question": "驾驶人在实习期内不得单独驾驶机动车上高速，在增加准驾车型后的实习期内，驾驶原准驾车型的机动车时不受上述限制。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "",
+    "count": 1,
+    "last_wrong": "2026-07-01 19:08:10.476152"
+  },
+  {
+    "id": "20220331160352d9krrmqtqu5jfhpdd1e7us",
+    "question": "申请增驾轻型牵引挂车驾驶证的人年龄条件是多少？",
     "answer": "C",
-    "answer_text": "开启右转向灯",
-    "explain": "超车要从左侧超越，所以应开左转向灯。",
+    "answer_text": "20周岁以上60周岁以下",
+    "explain": "增驾C6，C1、C2一年以上，20-60岁。",
     "count": 1,
-    "last_wrong": "2026-07-01 10:05:38.585972"
+    "last_wrong": "2026-07-01 19:08:52.016321"
   },
   {
-    "id": "20190410102528g1pbncrqk7dfzgggjtuock",
-    "question": "驾驶机动车在没有道路中心线的狭窄山路怎样会车？",
-    "answer": "D",
-    "answer_text": "不靠山体的一方先行",
-    "explain": "狭窄山路会车，相对危险一方先行。",
-    "count": 1,
-    "last_wrong": "2026-07-01 10:07:01.429420"
-  },
-  {
-    "id": "20201016175724d6jyk9kjhy9vkgt1kd5bzf",
-    "question": "机动车驾驶人补领机动车驾驶证后，使用原机动车驾驶证驾驶的，除被收回原机动车驾驶证外，还会处多少元罚款？",
+    "id": "20220412180651tzqd2q976kvszhtwak22cm",
+    "question": "参加公安机关交通管理部门组织的道路交通安全法律、法规和相关知识网上学习三日内累计满三十分钟且考试合格的，一次扣减1分。",
     "answer": "A",
-    "answer_text": "20元以上200元以下",
-    "explain": "补证后用原证，罚款20-200元。",
+    "answer_text": "正确",
+    "explain": "",
     "count": 1,
-    "last_wrong": "2026-07-01 10:07:26.632463"
+    "last_wrong": "2026-07-01 19:11:28.376640"
   },
   {
-    "id": "202204161104408sx7yrxwgmpkzpyf6we5sk",
-    "question": "以下选项中，车辆牵引力控制系统的英文缩写是什么？",
-    "answer": "D",
-    "answer_text": "TCS/ASR/TRC",
-    "explain": "看到牵引，选最长答案。",
+    "id": "20191126190220v52ugfv1hwqerleuerog8e",
+    "question": "遇到一个图中所示的漫水路段时，要提前减速，谨慎慢行进入水区，在涉水路段行驶，一定要低速缓慢行驶，涉水途中禁止停车。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "题干中只是“提前减速”，没有“停车”，是不对的。",
     "count": 1,
-    "last_wrong": "2026-07-01 10:08:37.291271"
+    "last_wrong": "2026-07-01 19:13:15.531889"
   },
   {
-    "id": "20190410102726v2evzahcfdz74cc9cbh8zf",
-    "question": "驾驶机动车遇到校车在道路右侧停车上下学生时，应注意什么？",
-    "answer": "A,C,D",
-    "answer_text": "同向只有一条机动车道，后方机动车应当停车等待, 同向有三条机动车道，中间车道后方机动车应当停车等待, 同向有三条机动车道，左侧车道后方机动车可以减速通过",
-    "explain": "文明行车，安全第一。",
+    "id": "20190410102532szlrwkcbzwzt6kxsfikwb7",
+    "question": "驾驶拼装机动车上路行驶的驾驶人，除按规定接受罚款外，还要受到哪种处理？",
+    "answer": "C",
+    "answer_text": "吊销驾驶证",
+    "explain": "报废车、拼装车不得上路。",
     "count": 1,
-    "last_wrong": "2026-07-01 10:11:22.388632"
+    "last_wrong": "2026-07-01 19:14:06.917052"
   },
   {
-    "id": "20190410102735ruymqsuhrb1kkbts2ybxcu",
-    "question": "在高速公路上遇到紧急情况避险时需注意什么？",
+    "id": "20190410102527cmfed3ckq12wn6qyqacpbq",
+    "question": "驾驶机动车超车应该提前开启左转向灯、变换使用远近光灯或鸣喇叭。",
     "answer": "A",
-    "answer_text": "采取制动措施减速",
-    "explain": "高速公路上遇紧急情况不要轻易转向。",
+    "answer_text": "正确",
+    "explain": "超车要提前示意前车。",
     "count": 1,
-    "last_wrong": "2026-07-01 10:11:50.492165"
+    "last_wrong": "2026-07-01 19:15:17.249040"
+  },
+  {
+    "id": "20220408192503gi35yrwch9hqxk1dye8mcm",
+    "question": "机动车驾驶人可以通过交通安全公益活动扣减驾驶证记分，满两个小时为一次，一次扣减1分。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "",
+    "count": 1,
+    "last_wrong": "2026-07-01 19:16:00.571244"
+  },
+  {
+    "id": "20220416110440edbw6z7ydbttj8zrsbhn5a",
+    "question": "以下选项中，车辆自动刹车辅助系统的英文缩写是什么？",
+    "answer": "B",
+    "answer_text": "AEB",
+    "explain": "看到EB找刹车、制动，A在最前是自动，A在最后是辅助。",
+    "count": 1,
+    "last_wrong": "2026-07-01 19:16:47.899786"
+  },
+  {
+    "id": "20190410102524rpl18vf9ztbpuzrgzzazf1",
+    "question": "交通信号灯由红灯、绿灯和黄灯组成。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "红灯停绿灯行，黄灯亮了等一等。",
+    "count": 1,
+    "last_wrong": "2026-07-01 19:17:55.666590"
   }
 ]
