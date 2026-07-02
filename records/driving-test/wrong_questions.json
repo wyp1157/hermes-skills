@@ -45,22 +45,13 @@
     "last_wrong": "2026-07-02 07:55:22.899820"
   },
   {
-    "id": "20190410102527cmfed3ckq12wn6qyqacpbq",
-    "question": "驾驶机动车超车应该提前开启左转向灯、变换使用远近光灯或鸣喇叭。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "超车要提前示意前车。",
-    "count": 1,
-    "last_wrong": "2026-07-01 19:15:17.249040"
-  },
-  {
     "id": "20220416110440edbw6z7ydbttj8zrsbhn5a",
     "question": "以下选项中，车辆自动刹车辅助系统的英文缩写是什么？",
     "answer": "B",
     "answer_text": "AEB",
     "explain": "看到EB找刹车、制动，A在最前是自动，A在最后是辅助。",
-    "count": 1,
-    "last_wrong": "2026-07-01 19:16:47.899786"
+    "count": 2,
+    "last_wrong": "2026-07-02 08:03:10.738650"
   },
   {
     "id": "20190410102524rpl18vf9ztbpuzrgzzazf1",
