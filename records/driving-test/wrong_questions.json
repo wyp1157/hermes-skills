@@ -14,35 +14,8 @@
     "answer": "B",
     "answer_text": "大型客车",
     "explain": "",
-    "count": 1,
-    "last_wrong": "2026-07-03 19:03:38.059369"
-  },
-  {
-    "id": "202206071438302gyebusivjcqn99aru8dq6",
-    "question": "机动车驾驶人身体条件发生变化不适合驾驶机动车，仍驾驶机动车的，处多少元罚款？",
-    "answer": "B",
-    "answer_text": "200元以上500元以下",
-    "explain": "",
     "count": 2,
-    "last_wrong": "2026-07-04 08:48:28.772577"
-  },
-  {
-    "id": "201904101027068tyu65zpsusbb1krhkudmk",
-    "question": "机动车不得在隧道中倒车。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "铁路道口、交叉路口、单行路、桥梁、陡坡、急弯路和隧道，均不得倒车。",
-    "count": 1,
-    "last_wrong": "2026-07-03 19:12:42.632555"
-  },
-  {
-    "id": "20210806113522x2anclzfgks6v3guuux1d5",
-    "question": "行车过程中遇下图标志时，应注意什么?",
-    "answer": "C,D",
-    "answer_text": "车辆必须停车，观察干道行车情况，在确保干道车辆优先通行且安全的前提下，可进入路口, 车辆必须在停止线前停车瞭望，确认安全后才可以通行",
-    "explain": "三角形内一个“让”是减速让行，八角形内一个“停”是停车让行。",
-    "count": 2,
-    "last_wrong": "2026-07-04 08:53:54.264153"
+    "last_wrong": "2026-07-04 19:23:54.662077"
   },
   {
     "id": "20190410102711t1dx7wqy8zassirtao5pr",
@@ -54,13 +27,58 @@
     "last_wrong": "2026-07-03 19:14:47.056498"
   },
   {
-    "id": "201904101025269ydedpwhgba1xta9ihcqq7",
-    "question": "大型客车、重型牵引挂车、城市公交车、中型客车、大型货车驾驶人应当每两年提交一次身体条件证明。",
+    "id": "20190410102528ryqxlatvpey46oo5nresd",
+    "question": "在交叉路口遇到这种情况享有优先通行权。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "右转让左转，左转让直行，转弯让直行。",
+    "count": 1,
+    "last_wrong": "2026-07-04 19:23:17.693337"
+  },
+  {
+    "id": "201904101025247njrwdrxcvn24hs1hpvfgy",
+    "question": "驾驶人在核发地车辆管理所管辖区以外居住的，可以向居住地车辆管理所申请换证。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "不在核发地居住，可在居住地换证。",
+    "count": 1,
+    "last_wrong": "2026-07-04 19:25:50.322364"
+  },
+  {
+    "id": "20190410102706l9cwk9bx8w16zzmk7wez2f",
+    "question": "如图所示，驾驶机动车在这种情况下，可以直行也可以右转。",
     "answer": "B",
     "answer_text": "错误",
-    "explain": "AB照每年审验，提交身体证明；有记分30日内审，无记分免审验。",
+    "explain": "右转车道只能右转。",
     "count": 1,
-    "last_wrong": "2026-07-04 08:45:41.826690"
+    "last_wrong": "2026-07-04 19:27:12.748719"
+  },
+  {
+    "id": "20190410102811q6j7dkt12ehvajo3x1dmiu",
+    "question": "左右两侧车辆向同一车道变更时，右侧车辆让左侧车辆先行变更。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "右侧来车先行原则。",
+    "count": 1,
+    "last_wrong": "2026-07-04 19:30:46.722551"
+  },
+  {
+    "id": "20220125111442eqsjwkxvfghunzqieuks8g",
+    "question": "关于避险车道，以下错误的说法是什么?",
+    "answer": "A",
+    "answer_text": "避险车道可以用于临时停车检修故障",
+    "explain": "避险车道是提供给下陡坡时制动失控车辆紧急减速停车的。",
+    "count": 1,
+    "last_wrong": "2026-07-04 19:31:54.570079"
+  },
+  {
+    "id": "202103051601119knmczfpdm4jxzkftyzgke",
+    "question": "不同疲劳程度下驾驶人的状态和表现不同，轻微疲劳的表现是什么？",
+    "answer": "A,B",
+    "answer_text": "频打哈欠, 眼皮沉重",
+    "explain": "安全行车，拒绝疲劳驾驶。",
+    "count": 1,
+    "last_wrong": "2026-07-04 19:44:34.199169"
   },
   {
     "id": "20190410102659jewpoqdv6k2ogqp2bb1dnk",
@@ -69,51 +87,6 @@
     "answer_text": "超速行驶",
     "explain": "泥泞路段应减速慢行，最高行驶速度是30公里/小时。",
     "count": 1,
-    "last_wrong": "2026-07-04 08:47:09.700916"
-  },
-  {
-    "id": "20190410102712bh9zjehxv9kq5ivrjxbpzu",
-    "question": "驾驶车辆驶入铁路道口前减速降挡，进入道口后应怎样做？",
-    "answer": "A",
-    "answer_text": "不能变换挡位",
-    "explain": "在道口内减速换挡，一旦熄火后果不堪设想。",
-    "count": 1,
-    "last_wrong": "2026-07-04 08:47:57.063720"
-  },
-  {
-    "id": "20190410102531yaos3turgu4og2vrdnxkaa",
-    "question": "机动车驾驶人血液中酒精含量大于或者等于多少可认定为醉驾？",
-    "answer": "C",
-    "answer_text": "80毫克/100毫升",
-    "explain": "血液中酒精含量为20-80mg/100mL，属于酒驾；大于等于80mg/100mL，属于醉驾。",
-    "count": 1,
-    "last_wrong": "2026-07-04 08:48:12.848264"
-  },
-  {
-    "id": "201904101025322xincwyge3myaro3kbaxbm",
-    "question": "B1表示哪种车型？",
-    "answer": "C",
-    "answer_text": "中型客车",
-    "explain": "",
-    "count": 1,
-    "last_wrong": "2026-07-04 08:50:51.499409"
-  },
-  {
-    "id": "20190410102528ryqxlatvpey46oo5nresd",
-    "question": "在交叉路口遇到这种情况享有优先通行权。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "右转让左转，左转让直行，转弯让直行。",
-    "count": 1,
-    "last_wrong": "2026-07-04 08:51:45.913668"
-  },
-  {
-    "id": "20201229173215j8pkk9erovw6ipdh5s8fcx",
-    "question": "车辆因故障等原因需被牵引时，以下说法错误的是什么？",
-    "answer": "B,C,D",
-    "answer_text": "所有车辆都应让行, 牵引车与被牵引车尽量快速行驶, 行驶过程中不受交通信号限制",
-    "explain": "注意是选错误项。",
-    "count": 1,
-    "last_wrong": "2026-07-04 08:52:23.469641"
+    "last_wrong": "2026-07-04 19:50:23.803047"
   }
 ]
