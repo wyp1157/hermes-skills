@@ -9,84 +9,57 @@
     "last_wrong": "2026-06-16 08:54:13.984170"
   },
   {
-    "id": "20220412175301wphzo8o9bzb77uwqvkcnhp",
-    "question": "年满20周岁的，不可以初次申请以下哪种准驾车型？",
-    "answer": "B",
-    "answer_text": "大型客车",
-    "explain": "",
-    "count": 2,
-    "last_wrong": "2026-07-04 19:23:54.662077"
+    "id": "20191126190217gvkrecif6hspqlhqbfs53z",
+    "question": "图中驾驶人的违法行为会被记多少分？",
+    "answer": "A",
+    "answer_text": "记4分",
+    "explain": "只要开车上路，不系安全带的，一律记1分。",
+    "count": 1,
+    "last_wrong": "2026-07-04 21:38:36.769000"
   },
   {
-    "id": "20190410102711t1dx7wqy8zassirtao5pr",
-    "question": "如图所示，在这种无信号灯控制情况下，A、B、C车的通行权顺序是什么？",
+    "id": "20220415112627jrsetykm1hzdmpyk3pij4w",
+    "question": "申请大型客车驾驶证的申请人，应该在26周岁以上，50周岁以下。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "申请大型客车、重型牵引挂车的年龄条件为：22-60周岁。",
+    "count": 1,
+    "last_wrong": "2026-07-04 21:44:20.520097"
+  },
+  {
+    "id": "20190410102718dunz9qj3ehofgjaeihgwjl",
+    "question": "右侧标志表示前方路段会车时停车让对方车先行。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "三角形内一个“让”是减速让行，八角形内一个“停”是停车让行。",
+    "count": 1,
+    "last_wrong": "2026-07-04 21:44:38.202827"
+  },
+  {
+    "id": "202204081925053jaefh9s6u6qucgehp4wbm",
+    "question": "在学习驾驶证明的有效期内，科目二和科目三道路驾驶技能考试预约次数合计不得超过5次。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "巧记：2+3=5。科目二和科目三都只有5次考试机会。",
+    "count": 1,
+    "last_wrong": "2026-07-04 21:46:04.097102"
+  },
+  {
+    "id": "20190410102534pbiqdzvytgjjgtirsqhe7s",
+    "question": "机动车驾驶人造成事故后逃逸构成犯罪的，吊销驾驶证且多长时间不得重新取得驾驶证？",
     "answer": "C",
-    "answer_text": "A车、B车、C车",
-    "explain": "右转让左转，左转让直行，转弯让直行。",
+    "answer_text": "终生",
+    "explain": "假一吊二撤三醉五逃终生。",
     "count": 1,
-    "last_wrong": "2026-07-03 19:14:47.056498"
+    "last_wrong": "2026-07-04 21:46:38.009820"
   },
   {
-    "id": "20190410102528ryqxlatvpey46oo5nresd",
-    "question": "在交叉路口遇到这种情况享有优先通行权。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "右转让左转，左转让直行，转弯让直行。",
-    "count": 1,
-    "last_wrong": "2026-07-04 19:23:17.693337"
-  },
-  {
-    "id": "201904101025247njrwdrxcvn24hs1hpvfgy",
-    "question": "驾驶人在核发地车辆管理所管辖区以外居住的，可以向居住地车辆管理所申请换证。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "不在核发地居住，可在居住地换证。",
-    "count": 1,
-    "last_wrong": "2026-07-04 19:25:50.322364"
-  },
-  {
-    "id": "20190410102706l9cwk9bx8w16zzmk7wez2f",
-    "question": "如图所示，驾驶机动车在这种情况下，可以直行也可以右转。",
+    "id": "20210506182100bvmmsr4k9v9bsowrb3kcgs",
+    "question": "饮酒后驾驶非营运机动车的，处十五日拘留，并处五千元罚款。",
     "answer": "B",
     "answer_text": "错误",
-    "explain": "右转车道只能右转。",
+    "explain": "因饮酒后驾驶机动车被处罚，再次饮酒后驾驶机动车的，吊销驾驶证。",
     "count": 1,
-    "last_wrong": "2026-07-04 19:27:12.748719"
-  },
-  {
-    "id": "20190410102811q6j7dkt12ehvajo3x1dmiu",
-    "question": "左右两侧车辆向同一车道变更时，右侧车辆让左侧车辆先行变更。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "右侧来车先行原则。",
-    "count": 1,
-    "last_wrong": "2026-07-04 19:30:46.722551"
-  },
-  {
-    "id": "20220125111442eqsjwkxvfghunzqieuks8g",
-    "question": "关于避险车道，以下错误的说法是什么?",
-    "answer": "A",
-    "answer_text": "避险车道可以用于临时停车检修故障",
-    "explain": "避险车道是提供给下陡坡时制动失控车辆紧急减速停车的。",
-    "count": 1,
-    "last_wrong": "2026-07-04 19:31:54.570079"
-  },
-  {
-    "id": "202103051601119knmczfpdm4jxzkftyzgke",
-    "question": "不同疲劳程度下驾驶人的状态和表现不同，轻微疲劳的表现是什么？",
-    "answer": "A,B",
-    "answer_text": "频打哈欠, 眼皮沉重",
-    "explain": "安全行车，拒绝疲劳驾驶。",
-    "count": 1,
-    "last_wrong": "2026-07-04 19:44:34.199169"
-  },
-  {
-    "id": "20190410102659jewpoqdv6k2ogqp2bb1dnk",
-    "question": "佟某驾驶一辆大客车（乘载54人，核载55人）行至太原境内以45公里的时速通过一处泥泞路段时，机动车侧滑驶出路外坠入深沟，导致14人死亡、40人受伤。佟某的主要违法行为是什么？",
-    "answer": "B",
-    "answer_text": "超速行驶",
-    "explain": "泥泞路段应减速慢行，最高行驶速度是30公里/小时。",
-    "count": 1,
-    "last_wrong": "2026-07-04 19:50:23.803047"
+    "last_wrong": "2026-07-04 21:48:28.756937"
   }
 ]
