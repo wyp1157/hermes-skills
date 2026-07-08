@@ -9,93 +9,12 @@
     "last_wrong": "2026-06-16 08:54:13.984170"
   },
   {
-    "id": "20200818173250v6kprevvp7nr9mzsijzsk",
-    "question": "停车视距不包括以下哪个距离？",
-    "answer": "A",
-    "answer_text": "启动距离",
-    "explain": "停车视距就是驾驶员从发现障碍物到停住车所需的最短距离。",
-    "count": 1,
-    "last_wrong": "2026-07-08 07:29:40.058227"
-  },
-  {
-    "id": "20191126190217atrrtxsix6glwmtpnsbqbd",
-    "question": "前方车辆有什么违法行为？",
-    "answer": "C",
-    "answer_text": "没开启灯光",
-    "explain": "夜间行车能见度低，应开启示廓灯、前照等，提醒其他车辆注意。",
-    "count": 1,
-    "last_wrong": "2026-07-08 07:30:11.073063"
-  },
-  {
-    "id": "20190410102733xnhfzmknttwwcsi4vszsj9",
-    "question": "雨天影响安全行车的主要因素有哪些？",
-    "answer": "A,B,C",
-    "answer_text": "视线受阻, 路面湿滑, 附着力变小",
-    "explain": "雨天行车，应减速慢行。",
-    "count": 1,
-    "last_wrong": "2026-07-08 07:31:17.618178"
-  },
-  {
-    "id": "20190410102521ggmnxabgnexmi8bmhhmopw",
-    "question": "驾驶人有使用其他车辆保险标志嫌疑的，交通警察可依法扣留车辆。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "使用其他车辆证件（行驶证、登记证书）、号牌、标志（检验标志、保险标志）的，交警可依法扣留车辆，并处罚款2000-5000元。",
-    "count": 1,
-    "last_wrong": "2026-07-08 07:31:56.213376"
-  },
-  {
-    "id": "20220408192503fepmwjpj6stxrrot5kc69c",
-    "question": "B2表示哪种准驾车型？",
+    "id": "20220322144211q8aacjs1p58aia8fv3hmas",
+    "question": "夜间在视线较差的路口转弯，应在距离路口多远时关闭远光灯？",
     "answer": "B",
-    "answer_text": "大型货车",
-    "explain": "",
+    "answer_text": "30-100米",
+    "explain": "夜间通过交叉路口不得开远光灯。",
     "count": 1,
-    "last_wrong": "2026-07-08 07:32:55.625429"
-  },
-  {
-    "id": "201904101027186pp2azlp99gnprvkmncmm7",
-    "question": "右侧标志提醒注意前方是驼峰桥。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "驼峰桥是空心的，路面高突是实心的。",
-    "count": 1,
-    "last_wrong": "2026-07-08 07:38:57.912394"
-  },
-  {
-    "id": "20220408192505qq4b6tdskds9xb8a9phap3",
-    "question": "办理残疾人专用小型自动挡载客汽车驾驶证的，应提交由县级以上医疗机构出具的身体证明。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "",
-    "count": 1,
-    "last_wrong": "2026-07-08 07:40:39.393027"
-  },
-  {
-    "id": "201904101025333tl9rp36zqq4zkupz17wv4",
-    "question": "学习驾驶证明的有效期是多久？",
-    "answer": "C",
-    "answer_text": "3年",
-    "explain": "未在有效期内完成考试的，已考试合格的科目成绩作废。",
-    "count": 1,
-    "last_wrong": "2026-07-08 07:41:31.239069"
-  },
-  {
-    "id": "20190410102556xbtqqygayuddfoh4mvzch4",
-    "question": "机动车仪表板上（如图所示）亮表示发动机可能机油压力过高。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "该灯亮起，说明该车发动机要维修了。",
-    "count": 1,
-    "last_wrong": "2026-07-08 07:42:01.071157"
-  },
-  {
-    "id": "20200818173443b7jmsobcqpgdplw1pk1hnc",
-    "question": "驾驶人分心驾驶的危害是什么？",
-    "answer": "A,B,C,D",
-    "answer_text": "驾驶人注意力分散, 视线离开路面，无法提前观察道路交通信息, 会引起驾驶姿势的变化, 会引起操作动作的变化",
-    "explain": "分心驾驶危险性极高。",
-    "count": 1,
-    "last_wrong": "2026-07-08 07:42:29.810532"
+    "last_wrong": "2026-07-08 19:23:35.898762"
   }
 ]
