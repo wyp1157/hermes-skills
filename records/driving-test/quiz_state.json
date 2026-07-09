@@ -1,6 +1,6 @@
 {
   "today": "2026-07-09",
-  "status": "in_progress",
+  "status": "completed",
   "questions": [
     {
       "aliyVid": null,
@@ -1895,8 +1895,8 @@
       "versionNo": 0
     }
   ],
-  "current_index": 0,
-  "correct_count": 0,
-  "total_asked": 0,
-  "session_count_today": 0
+  "current_index": 50,
+  "correct_count": 43,
+  "total_asked": 50,
+  "session_count_today": 1
 }
