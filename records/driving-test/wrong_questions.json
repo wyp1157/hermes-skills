@@ -9,85 +9,76 @@
     "last_wrong": "2026-06-16 08:54:13.984170"
   },
   {
-    "id": "201904101025247yfufzbpebz1lfg7dfxtnz",
-    "question": "在暂住地初次申领机动车驾驶证的，不能直接申领大型货车驾驶证。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "初领驾照，可申领大货车。",
-    "count": 1,
-    "last_wrong": "2026-07-10 03:12:23.770103"
-  },
-  {
-    "id": "202008181732506ilvnkeykf9cvtcnny8weu",
-    "question": "因饮酒后驾驶机动车被处罚，再次饮酒后驾驶机动车的处十日以下拘留，并处1000元以上2000元以下罚款，吊销机动车驾驶证。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "初次酒后驾驶是暂扣驾驶证，再次酒后驾驶是吊销驾驶证。",
-    "count": 1,
-    "last_wrong": "2026-07-10 03:14:28.104667"
-  },
-  {
-    "id": "20220408192505qq4b6tdskds9xb8a9phap3",
-    "question": "办理残疾人专用小型自动挡载客汽车驾驶证的，应提交由县级以上医疗机构出具的身体证明。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "",
-    "count": 1,
-    "last_wrong": "2026-07-10 03:14:43.942003"
-  },
-  {
     "id": "20201229173153relny4xlhyvmhqx3xrkbpp",
     "question": "车辆在泥泞路上发生侧滑时，以下做法正确的是？",
     "answer": "A",
     "answer_text": "向侧滑的一侧转动转向盘适量修正",
     "explain": "大部分汽车前轮负责转向，后轮负责驱动。",
     "count": 1,
-    "last_wrong": "2026-07-10 03:50:37.363113"
+    "last_wrong": "2026-07-10 19:21:59.592476"
   },
   {
-    "id": "20190410102545pjfrbt6oaqvcsnpajqb8de",
-    "question": "这个标志是何含义？",
-    "answer": "D",
-    "answer_text": "高速公路救援电话",
-    "explain": "绿牌标志代表高速公路，紧急电话标志上没有字，救援电话标志上有“救援”字样+号码。",
-    "count": 1,
-    "last_wrong": "2026-07-10 03:51:31.953402"
-  },
-  {
-    "id": "20210125171551lwabprmihwcn3nwfrmu7tp",
-    "question": "对于持有小型自动挡汽车驾驶证（C2）的驾驶人，可以驾驶上肢残疾人专用小型自动挡载客汽车。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "C2驾照可驾自动挡。",
-    "count": 1,
-    "last_wrong": "2026-07-10 03:54:26.053050"
-  },
-  {
-    "id": "202007271502493w3b4uldhpqkdwdngu6hoe",
-    "question": "山区狭窄坡路会车时，下坡的车辆先行，因为下坡速度不好控制更加危险。",
+    "id": "202204121753018pbinfudptlsy57nsi8r4f",
+    "question": "机动车驾驶人受到的行政处罚被依法变更或者撤销的，其相应的记分不会变更或撤销。",
     "answer": "B",
     "answer_text": "错误",
-    "explain": "狭窄坡路会车，上坡一方先行。",
+    "explain": "",
     "count": 1,
-    "last_wrong": "2026-07-10 03:54:38.806313"
+    "last_wrong": "2026-07-10 19:22:34.240616"
   },
   {
-    "id": "202010161813113yxcf8xgp1excp2yqotiim",
-    "question": "在高速公路上发生碰撞前，驾驶人要采取什么措施？",
+    "id": "2019041010252251eycn2av1ddjvbkgwwabh",
+    "question": "持有大型客车、重型牵引挂车、城市公交车、中型客车、大型货车驾驶证的驾驶人从业单位等信息发生变化的，应当在信息变更后三十日内，向驾驶证核发地车辆管理所备案。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "",
+    "count": 1,
+    "last_wrong": "2026-07-10 19:25:18.874776"
+  },
+  {
+    "id": "20190410102554kythbjfnhhdwrqjgr6ardm",
+    "question": "车辆涉水后，应保持低速行驶，怎样操作制动踏板，以恢复制动效果？",
+    "answer": "D",
+    "answer_text": "间断轻踏",
+    "explain": "持续或重踏可能会导致熄火。",
+    "count": 1,
+    "last_wrong": "2026-07-10 19:26:03.351823"
+  },
+  {
+    "id": "20190410102708eqd9rwupnjupe7wzcqbf3y",
+    "question": "驶入高速公路减速车道后，应关闭转向灯，注意观察限速标志，进入匝道之前将车速降到多少以下？",
+    "answer": "D",
+    "answer_text": "标志规定车速",
+    "explain": "按规定车速行驶，不得超速。",
+    "count": 1,
+    "last_wrong": "2026-07-10 19:27:30.457868"
+  },
+  {
+    "id": "2022033116035571cifrrowrl2crxazicjer",
+    "question": "驾驶机动车造成致人轻微伤或者财产损失的交通事故后逃逸，尚不构成犯罪的，将会被一次记12分。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "逃逸未犯罪：轻伤以上或死亡，一次记12分；轻微伤或财产损失，一次记6分。",
+    "count": 1,
+    "last_wrong": "2026-07-10 19:27:50.823227"
+  },
+  {
+    "id": "20220421184714t3ogi9fjdrznbrxwhwnjzw",
+    "question": "机动车驾驶人身体条件发生变化不适合驾驶机动车，依旧驾驶机动车的，由公安机关交通管理部门收回机动车驾驶证，还会受到什么处罚？",
     "answer": "A",
-    "answer_text": "先制动，后转向",
-    "explain": "高速行驶状态下急转向可能会翻车。",
+    "answer_text": "罚款",
+    "explain": "身体条件不适合还开车，罚款二百至五百。",
     "count": 1,
-    "last_wrong": "2026-07-10 03:56:20.066382"
+    "last_wrong": "2026-07-10 19:28:44.946728"
   },
   {
-    "id": "202203311603526cmnhbavxnzxvbghnku6xe",
-    "question": "身体条件证明自出具之日起多长时间之内有效？",
-    "answer": "C",
-    "answer_text": "6个月",
-    "explain": "有效期：学习证明3年、身体证明6个月、临时许可3个月。学习证明即驾驶技能准考证明。",
+    "id": "20190410102732vgvuq7mbvch7yhczjrzmpp",
+    "question": "在泥泞路段遇车后轮向右侧滑时如何处置？",
+    "answer": "B",
+    "answer_text": "向右转向",
+    "explain": "侧滑后调整方向：前轮相反方向，后轮相同方向。",
     "count": 1,
-    "last_wrong": "2026-07-10 08:42:03.654651"
+    "last_wrong": "2026-07-10 19:29:04.551873"
   },
   {
     "id": "20200818173251jhpwu5w75oaninzqppywyu",
@@ -96,6 +87,51 @@
     "answer_text": "错误",
     "explain": "第一时间要先开放气道。",
     "count": 1,
-    "last_wrong": "2026-07-10 08:44:09.460658"
+    "last_wrong": "2026-07-10 19:29:23.448747"
+  },
+  {
+    "id": "202007271502493w3b4uldhpqkdwdngu6hoe",
+    "question": "山区狭窄坡路会车时，下坡的车辆先行，因为下坡速度不好控制更加危险。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "狭窄坡路会车，上坡一方先行。",
+    "count": 1,
+    "last_wrong": "2026-07-10 19:29:56.016287"
+  },
+  {
+    "id": "20190410102554vdntlhftsxut6xnewjfxt5",
+    "question": "如图所示，在这起交通事故中，以下说法正确的是什么？",
+    "answer": "B",
+    "answer_text": "B车负全部责任",
+    "explain": "掉头不能影响正常行驶的车辆。",
+    "count": 1,
+    "last_wrong": "2026-07-10 19:31:00.595828"
+  },
+  {
+    "id": "20190410102659skbtrgusqzuk9sf9gaesdd",
+    "question": "动画8中有几种违法行为？",
+    "answer": "B",
+    "answer_text": "二种违法行为",
+    "explain": "非机动车道上的自行车图样很明显。",
+    "count": 1,
+    "last_wrong": "2026-07-10 19:32:17.601182"
+  },
+  {
+    "id": "20220408192505qq4b6tdskds9xb8a9phap3",
+    "question": "办理残疾人专用小型自动挡载客汽车驾驶证的，应提交由县级以上医疗机构出具的身体证明。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "",
+    "count": 1,
+    "last_wrong": "2026-07-10 19:33:11.867638"
+  },
+  {
+    "id": "20190410102714ro4jutcqxzwkhrkhg1o8ea",
+    "question": "如图所示，驾驶机动车遇到这种情况时，驾驶人应注意的是什么？",
+    "answer": "A,B,C,D",
+    "answer_text": "道路左侧儿童可能突然跑进路中, 前方行人可能未察觉有机动车驶近, 迎面来车可能造成会车困难, 右侧停放的机动车可能会突然起步",
+    "explain": "路况复杂，要减速慢行，注意礼让。",
+    "count": 1,
+    "last_wrong": "2026-07-10 19:33:54.302007"
   }
 ]
