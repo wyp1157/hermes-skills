@@ -1,5 +1,5 @@
 {
-  "today": "2026-07-09",
+  "today": "2026-07-10",
   "status": "in_progress",
   "questions": [
     {
@@ -1915,8 +1915,8 @@
       "versionNo": 0
     }
   ],
-  "current_index": 0,
-  "correct_count": 0,
-  "total_asked": 0,
+  "current_index": 34,
+  "correct_count": 26,
+  "total_asked": 34,
   "session_count_today": 1
 }

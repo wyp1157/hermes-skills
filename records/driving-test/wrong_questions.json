@@ -7,5 +7,77 @@
     "explain": "行经人行横道，无论有无行人通过，都要减速。",
     "count": 1,
     "last_wrong": "2026-06-16 08:54:13.984170"
+  },
+  {
+    "id": "201904101025247yfufzbpebz1lfg7dfxtnz",
+    "question": "在暂住地初次申领机动车驾驶证的，不能直接申领大型货车驾驶证。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "初领驾照，可申领大货车。",
+    "count": 1,
+    "last_wrong": "2026-07-10 03:12:23.770103"
+  },
+  {
+    "id": "202008181732506ilvnkeykf9cvtcnny8weu",
+    "question": "因饮酒后驾驶机动车被处罚，再次饮酒后驾驶机动车的处十日以下拘留，并处1000元以上2000元以下罚款，吊销机动车驾驶证。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "初次酒后驾驶是暂扣驾驶证，再次酒后驾驶是吊销驾驶证。",
+    "count": 1,
+    "last_wrong": "2026-07-10 03:14:28.104667"
+  },
+  {
+    "id": "20220408192505qq4b6tdskds9xb8a9phap3",
+    "question": "办理残疾人专用小型自动挡载客汽车驾驶证的，应提交由县级以上医疗机构出具的身体证明。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "",
+    "count": 1,
+    "last_wrong": "2026-07-10 03:14:43.942003"
+  },
+  {
+    "id": "20201229173153relny4xlhyvmhqx3xrkbpp",
+    "question": "车辆在泥泞路上发生侧滑时，以下做法正确的是？",
+    "answer": "A",
+    "answer_text": "向侧滑的一侧转动转向盘适量修正",
+    "explain": "大部分汽车前轮负责转向，后轮负责驱动。",
+    "count": 1,
+    "last_wrong": "2026-07-10 03:50:37.363113"
+  },
+  {
+    "id": "20190410102545pjfrbt6oaqvcsnpajqb8de",
+    "question": "这个标志是何含义？",
+    "answer": "D",
+    "answer_text": "高速公路救援电话",
+    "explain": "绿牌标志代表高速公路，紧急电话标志上没有字，救援电话标志上有“救援”字样+号码。",
+    "count": 1,
+    "last_wrong": "2026-07-10 03:51:31.953402"
+  },
+  {
+    "id": "20210125171551lwabprmihwcn3nwfrmu7tp",
+    "question": "对于持有小型自动挡汽车驾驶证（C2）的驾驶人，可以驾驶上肢残疾人专用小型自动挡载客汽车。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "C2驾照可驾自动挡。",
+    "count": 1,
+    "last_wrong": "2026-07-10 03:54:26.053050"
+  },
+  {
+    "id": "202007271502493w3b4uldhpqkdwdngu6hoe",
+    "question": "山区狭窄坡路会车时，下坡的车辆先行，因为下坡速度不好控制更加危险。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "狭窄坡路会车，上坡一方先行。",
+    "count": 1,
+    "last_wrong": "2026-07-10 03:54:38.806313"
+  },
+  {
+    "id": "202010161813113yxcf8xgp1excp2yqotiim",
+    "question": "在高速公路上发生碰撞前，驾驶人要采取什么措施？",
+    "answer": "A",
+    "answer_text": "先制动，后转向",
+    "explain": "高速行驶状态下急转向可能会翻车。",
+    "count": 1,
+    "last_wrong": "2026-07-10 03:56:20.066382"
   }
 ]
