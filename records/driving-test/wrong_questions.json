@@ -7,5 +7,95 @@
     "explain": "行经人行横道，无论有无行人通过，都要减速。",
     "count": 1,
     "last_wrong": "2026-06-16 08:54:13.984170"
+  },
+  {
+    "id": "202204121753018pbinfudptlsy57nsi8r4f",
+    "question": "机动车驾驶人受到的行政处罚被依法变更或者撤销的，其相应的记分不会变更或撤销。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "",
+    "count": 1,
+    "last_wrong": "2026-07-12 07:03:19.955771"
+  },
+  {
+    "id": "202204081925043trk1psnh6dpwcew5dnyrs",
+    "question": "机动车驾驶人补领机动车驾驶证后，继续使用原机动车驾驶证的，处多少元罚款？",
+    "answer": "A",
+    "answer_text": "20-200元",
+    "explain": "补证后用原证，罚款二十至二百。",
+    "count": 1,
+    "last_wrong": "2026-07-12 07:06:11.521458"
+  },
+  {
+    "id": "20220412175302mnuyuswkcusv9wxjtksng5",
+    "question": "代替他人或者让他人代替自己参加机动车驾驶人考试，处拘役或者管制，并处或者单处罚金。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "",
+    "count": 1,
+    "last_wrong": "2026-07-12 07:07:29.194459"
+  },
+  {
+    "id": "201904101025298gbh1rfgajvjczhwgugguj",
+    "question": "如图所示，驾驶机动车驶出这个路口时应当怎样使用灯光?",
+    "answer": "A",
+    "answer_text": "开启右转向灯",
+    "explain": "环岛：驶入不开灯，驶出开右转向灯。",
+    "count": 1,
+    "last_wrong": "2026-07-12 07:07:42.122485"
+  },
+  {
+    "id": "20210915175320eijdl5axe1c93egcc5d83u",
+    "question": "雾天在高速公路遇事故不能继续行驶时，危险的做法是什么？",
+    "answer": "B,C,D",
+    "answer_text": "在来车方向100米处设置警告标志, 车上人员要迅速从左侧车门离开, 开启危险报警闪光灯和远光灯",
+    "explain": "从左侧下车很危险；雾天不能开远光灯。",
+    "count": 1,
+    "last_wrong": "2026-07-12 07:09:03.789274"
+  },
+  {
+    "id": "20201116180301rbtkwwgcpdsce5tapkluae",
+    "question": "驾驶安装有防抱死制动装置（ABS）的车辆，发生侧滑时怎样使用制动?",
+    "answer": "C",
+    "answer_text": "将制动踏板踩到底",
+    "explain": "踩得太轻无法启动ABS防抱死系统。",
+    "count": 1,
+    "last_wrong": "2026-07-12 07:10:37.978644"
+  },
+  {
+    "id": "201904101025382nbpmzzxxibxce6nsozy35",
+    "question": "这个标志是何含义？",
+    "answer": "D",
+    "answer_text": "步行",
+    "explain": "蓝牌是指示标志，表示该路段只允许步行，车辆不能驶入。",
+    "count": 1,
+    "last_wrong": "2026-07-12 07:12:27.064296"
+  },
+  {
+    "id": "20220408205457msgo7ac9qmshct6ehs6gbe",
+    "question": "在实习期内驾驶机动车牵引挂车，由公安机关交通管理部门处二十元以上二百元以下罚款。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "",
+    "count": 1,
+    "last_wrong": "2026-07-12 07:14:13.971444"
+  },
+  {
+    "id": "20190410102736e6f3tnwm8dj5z8m5yymt9b",
+    "question": "机动车避免爆胎的正确做法是什么？",
+    "answer": "B,C,D",
+    "answer_text": "定期检查轮胎, 及时清理轮胎沟槽内的异物, 更换有裂纹或损伤的轮胎",
+    "explain": "降低胎压容易导致爆胎。",
+    "count": 1,
+    "last_wrong": "2026-07-12 07:14:31.102089"
+  },
+  {
+    "id": "20190410102556evddyuajhcg83isat2cj94",
+    "question": "机动车仪表板上（如图所示）亮时，提醒发动机冷却液可能不足。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "水温指示灯一直亮着，应停车检查。",
+    "count": 1,
+    "last_wrong": "2026-07-12 07:15:22.208466"
   }
 ]
