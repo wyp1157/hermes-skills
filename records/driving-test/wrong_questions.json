@@ -14,8 +14,8 @@
     "answer": "A",
     "answer_text": "向侧滑的一侧转动转向盘适量修正",
     "explain": "大部分汽车前轮负责转向，后轮负责驱动。",
-    "count": 1,
-    "last_wrong": "2026-07-10 19:21:59.592476"
+    "count": 2,
+    "last_wrong": "2026-07-11 09:17:57.753479"
   },
   {
     "id": "202204121753018pbinfudptlsy57nsi8r4f",
@@ -23,8 +23,8 @@
     "answer": "B",
     "answer_text": "错误",
     "explain": "",
-    "count": 1,
-    "last_wrong": "2026-07-10 19:22:34.240616"
+    "count": 2,
+    "last_wrong": "2026-07-11 09:12:18.851416"
   },
   {
     "id": "2019041010252251eycn2av1ddjvbkgwwabh",
@@ -32,26 +32,8 @@
     "answer": "B",
     "answer_text": "错误",
     "explain": "",
-    "count": 1,
-    "last_wrong": "2026-07-10 19:25:18.874776"
-  },
-  {
-    "id": "20190410102554kythbjfnhhdwrqjgr6ardm",
-    "question": "车辆涉水后，应保持低速行驶，怎样操作制动踏板，以恢复制动效果？",
-    "answer": "D",
-    "answer_text": "间断轻踏",
-    "explain": "持续或重踏可能会导致熄火。",
-    "count": 1,
-    "last_wrong": "2026-07-10 19:26:03.351823"
-  },
-  {
-    "id": "20190410102708eqd9rwupnjupe7wzcqbf3y",
-    "question": "驶入高速公路减速车道后，应关闭转向灯，注意观察限速标志，进入匝道之前将车速降到多少以下？",
-    "answer": "D",
-    "answer_text": "标志规定车速",
-    "explain": "按规定车速行驶，不得超速。",
-    "count": 1,
-    "last_wrong": "2026-07-10 19:27:30.457868"
+    "count": 2,
+    "last_wrong": "2026-07-11 09:13:21.367983"
   },
   {
     "id": "2022033116035571cifrrowrl2crxazicjer",
@@ -59,17 +41,8 @@
     "answer": "B",
     "answer_text": "错误",
     "explain": "逃逸未犯罪：轻伤以上或死亡，一次记12分；轻微伤或财产损失，一次记6分。",
-    "count": 1,
-    "last_wrong": "2026-07-10 19:27:50.823227"
-  },
-  {
-    "id": "20220421184714t3ogi9fjdrznbrxwhwnjzw",
-    "question": "机动车驾驶人身体条件发生变化不适合驾驶机动车，依旧驾驶机动车的，由公安机关交通管理部门收回机动车驾驶证，还会受到什么处罚？",
-    "answer": "A",
-    "answer_text": "罚款",
-    "explain": "身体条件不适合还开车，罚款二百至五百。",
-    "count": 1,
-    "last_wrong": "2026-07-10 19:28:44.946728"
+    "count": 2,
+    "last_wrong": "2026-07-11 09:16:54.559774"
   },
   {
     "id": "20190410102732vgvuq7mbvch7yhczjrzmpp",
@@ -77,61 +50,52 @@
     "answer": "B",
     "answer_text": "向右转向",
     "explain": "侧滑后调整方向：前轮相反方向，后轮相同方向。",
-    "count": 1,
-    "last_wrong": "2026-07-10 19:29:04.551873"
+    "count": 2,
+    "last_wrong": "2026-07-11 09:15:45.396462"
   },
   {
-    "id": "20200818173251jhpwu5w75oaninzqppywyu",
-    "question": "搬运昏迷失去知觉的伤员首先要采取仰卧位。",
+    "id": "20210915175320eijdl5axe1c93egcc5d83u",
+    "question": "雾天在高速公路遇事故不能继续行驶时，危险的做法是什么？",
+    "answer": "B,C,D",
+    "answer_text": "在来车方向100米处设置警告标志, 车上人员要迅速从左侧车门离开, 开启危险报警闪光灯和远光灯",
+    "explain": "从左侧下车很危险；雾天不能开远光灯。",
+    "count": 1,
+    "last_wrong": "2026-07-11 09:04:11.551406"
+  },
+  {
+    "id": "201904101027387lreyfdjeyu4wu5hfgbcjp",
+    "question": "液化石油气罐车在运输途中发生大量泄漏时，下列措施错误的是什么？",
+    "answer": "D",
+    "answer_text": "组织人员向下风方向疏散",
+    "explain": "石油泄漏，顺风跑很容易中毒。",
+    "count": 1,
+    "last_wrong": "2026-07-11 09:07:25.617348"
+  },
+  {
+    "id": "201904101027103zz6idtpyxyvfemlgk1sdi",
+    "question": "驾驶机动车在这个路口怎样右转弯行驶？",
+    "answer": "C",
+    "answer_text": "沿右侧道路右转弯",
+    "explain": "右转不受圆形红灯控制。",
+    "count": 1,
+    "last_wrong": "2026-07-11 09:11:15.097082"
+  },
+  {
+    "id": "20210125171551m5j9fqqlnmtz2ehfxt245z",
+    "question": "元某在未取得驾驶证的情况下，借用黄某的小型汽车上路行驶，元某的行为将受到下列哪种处罚？",
+    "answer": "D",
+    "answer_text": "处罚款，并处拘留",
+    "explain": "无证驾驶将被处罚款，并处拘留。",
+    "count": 1,
+    "last_wrong": "2026-07-11 09:15:27.389907"
+  },
+  {
+    "id": "20200706191831no3ilkuyqfue2vlgdr466h",
+    "question": "驾驶机动车突然发生倾翻时，以下做法错误的是什么？",
     "answer": "B",
-    "answer_text": "错误",
-    "explain": "第一时间要先开放气道。",
+    "answer_text": "迅速跳车逃生",
+    "explain": "不到万不得已，不要跳车。",
     "count": 1,
-    "last_wrong": "2026-07-10 19:29:23.448747"
-  },
-  {
-    "id": "202007271502493w3b4uldhpqkdwdngu6hoe",
-    "question": "山区狭窄坡路会车时，下坡的车辆先行，因为下坡速度不好控制更加危险。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "狭窄坡路会车，上坡一方先行。",
-    "count": 1,
-    "last_wrong": "2026-07-10 19:29:56.016287"
-  },
-  {
-    "id": "20190410102554vdntlhftsxut6xnewjfxt5",
-    "question": "如图所示，在这起交通事故中，以下说法正确的是什么？",
-    "answer": "B",
-    "answer_text": "B车负全部责任",
-    "explain": "掉头不能影响正常行驶的车辆。",
-    "count": 1,
-    "last_wrong": "2026-07-10 19:31:00.595828"
-  },
-  {
-    "id": "20190410102659skbtrgusqzuk9sf9gaesdd",
-    "question": "动画8中有几种违法行为？",
-    "answer": "B",
-    "answer_text": "二种违法行为",
-    "explain": "非机动车道上的自行车图样很明显。",
-    "count": 1,
-    "last_wrong": "2026-07-10 19:32:17.601182"
-  },
-  {
-    "id": "20220408192505qq4b6tdskds9xb8a9phap3",
-    "question": "办理残疾人专用小型自动挡载客汽车驾驶证的，应提交由县级以上医疗机构出具的身体证明。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "",
-    "count": 1,
-    "last_wrong": "2026-07-10 19:33:11.867638"
-  },
-  {
-    "id": "20190410102714ro4jutcqxzwkhrkhg1o8ea",
-    "question": "如图所示，驾驶机动车遇到这种情况时，驾驶人应注意的是什么？",
-    "answer": "A,B,C,D",
-    "answer_text": "道路左侧儿童可能突然跑进路中, 前方行人可能未察觉有机动车驶近, 迎面来车可能造成会车困难, 右侧停放的机动车可能会突然起步",
-    "explain": "路况复杂，要减速慢行，注意礼让。",
-    "count": 1,
-    "last_wrong": "2026-07-10 19:33:54.302007"
+    "last_wrong": "2026-07-11 09:18:19.636422"
   }
 ]
