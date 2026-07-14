@@ -1,7 +1,44 @@
 {
   "today": "2026-07-14",
-  "status": "pending",
-  "questions": [],
+  "status": "in_progress",
+  "questions": [
+    {
+      "aliyVid": "5fb39583f2244567b79afc6104cc7317",
+      "answer": "B",
+      "answerSkill": "夜间通过无交通信号灯控制的路口，应交替使用远近光灯，示意其它车辆和行人。",
+      "answerSkillExplain": "文明驾驶，安全第一。",
+      "chapterId": "1",
+      "coverUrl": "https://app.static.public.chetailian.com/exam/exerciseExplain/1/1657090350542/883500.png",
+      "difficulty": 3,
+      "easyErrorFlag": false,
+      "errorProneFlag": false,
+      "errorRate": "19.1",
+      "flag": 0,
+      "id": "20190410102548wjyxkq11hmyzhx656zsryz",
+      "itemsDescArray": [
+        "正确",
+        "错误"
+      ],
+      "itemsTitleArray": [
+        "A",
+        "B"
+      ],
+      "newRuleFlag": false,
+      "question": "夜间通过无交通信号灯控制的交叉路口时，不得变换远、近光灯。",
+      "regionCode": "0",
+      "remark": "<p>《实施条例》第五十九条：机动车在夜间通过急弯、坡路、拱桥、人行横道或者没有交通信号灯控制的路口时，应当交替使用远近光灯示意。</p>",
+      "score": 1,
+      "secretFlag": false,
+      "selectedFlag": true,
+      "style": 1,
+      "subject": 1,
+      "type": 3,
+      "typeDesc": null,
+      "url": "",
+      "vedioExplainFlag": true,
+      "versionNo": 0
+    }
+  ],
   "current_index": 0,
   "correct_count": 0,
   "total_asked": 0,
