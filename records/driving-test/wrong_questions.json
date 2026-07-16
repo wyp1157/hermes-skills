@@ -9,75 +9,30 @@
     "last_wrong": "2026-06-16 08:54:13.984170"
   },
   {
-    "id": "20190410102549y1rfz6ft5kw6dm7pqd9cff",
-    "question": "驾驶机动车下长坡时，空挡滑行会导致再次挂挡困难。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "下坡行驶，不可空挡滑行。",
-    "count": 1,
-    "last_wrong": "2026-07-15 14:19:08.085272"
-  },
-  {
-    "id": "201904101027206dww7tac9xk38kuw6fzpdt",
-    "question": "右侧标志指示前方设有避让来车的处所。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "道路右侧凸出一块，中间有虚线是紧急停车带，没有就是错车道。",
-    "count": 1,
-    "last_wrong": "2026-07-15 14:20:05.509111"
-  },
-  {
-    "id": "20190410102554uyug9nlezlsl5sxoexteoa",
-    "question": "以下哪种行为处十日以下拘留，并处一千元以上二千元以下罚款，吊销机动车驾驶证？",
-    "answer": "D",
-    "answer_text": "因饮酒后驾驶机动车被处罚，再次饮酒后驾驶机动车的",
-    "explain": "初次酒后驾车，扣驾驶证6个月，罚款1000-2000元；再次饮酒驾车，吊销驾驶证。",
-    "count": 1,
-    "last_wrong": "2026-07-15 14:26:06.893459"
-  },
-  {
-    "id": "20200608191107tzxxapzzk57pkaygdwe9pz",
-    "question": "当出现下列哪种情形时，保险公司不承担赔偿责任？",
-    "answer": "A,B,C",
-    "answer_text": "驾驶人未取得驾驶资格证或者醉酒的, 被保险人机动车被盗抢期间肇事的, 被保险人故意制造道路交通事故的",
-    "explain": "无证驾驶发生交通事故，保险公司不承担赔偿责任。",
-    "count": 1,
-    "last_wrong": "2026-07-15 14:26:40.698246"
-  },
-  {
-    "id": "20190410102703rb2cewtryenyeh6zdrdyqj",
-    "question": "驾驶机动车驶离停车场进入主路时，驾驶人应当鸣喇叭示意主路车辆让行。",
+    "id": "20210922150442l12s69i6xwfioyqfncybug",
+    "question": "上车前，驾驶人应该如何进行绕车检查？",
     "answer": "B",
-    "answer_text": "错误",
-    "explain": "主路车辆拥有优先通行权。",
+    "answer_text": "逆时针绕车一周",
+    "explain": "行车前的安全检查，是驾驶安全的保障。",
     "count": 1,
-    "last_wrong": "2026-07-15 14:27:12.367540"
+    "last_wrong": "2026-07-16 10:24:03.958931"
   },
   {
-    "id": "20200706191831w4gab2wr75tr6glyregvf7",
-    "question": "机动车进入环岛路口应如何行驶？",
+    "id": "20220420185102epobyktk3ek9xhacksmvqe",
+    "question": "办理残疾人专用小型自动挡载客汽车驾驶证业务时，身体条件证明自出具之日起多长时间之内有效？",
+    "answer": "C",
+    "answer_text": "6个月",
+    "explain": "",
+    "count": 1,
+    "last_wrong": "2026-07-16 10:25:05.755168"
+  },
+  {
+    "id": "20220331160355gqtce1t1zk59yn525aoqbh",
+    "question": "驾驶人有下列哪种违法行为一次记9分？",
     "answer": "B",
-    "answer_text": "逆时针方向行驶",
-    "explain": "文明驾驶，安全第一。",
+    "answer_text": "在高速公路上违法停车的",
+    "explain": "高速记分：倒车逆行12、违停9、应急6、低速3。",
     "count": 1,
-    "last_wrong": "2026-07-15 14:27:33.610407"
-  },
-  {
-    "id": "20190410102530tmretxtgbaiwhyupvzyd6u",
-    "question": "在这个位置时怎样使用灯光？",
-    "answer": "A",
-    "answer_text": "开启左转向灯",
-    "explain": "高速公路：入左离右。",
-    "count": 1,
-    "last_wrong": "2026-07-15 14:28:04.238777"
-  },
-  {
-    "id": "20190410102732agknnigmefcqgnkjkabijf",
-    "question": "驾驶机动车在距离隧道前多少米内不得停车？",
-    "answer": "B",
-    "answer_text": "50米",
-    "explain": "巧记：站30口50。",
-    "count": 1,
-    "last_wrong": "2026-07-15 14:28:47.102768"
+    "last_wrong": "2026-07-16 10:26:25.608365"
   }
 ]
