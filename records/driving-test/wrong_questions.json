@@ -1,11 +1,74 @@
 [
   {
-    "id": "2019041010253022ahfktc7benko7pddmkjf",
-    "question": "机动车驾驶人参加审验教育时在签注学习记录、学习过程中弄虚作假的，相应学习记录无效，重新参加审验学习，并处多少元以下罚款？",
-    "answer": "C",
-    "answer_text": "1000元",
-    "explain": "",
+    "id": "20201201144307evxzz6l9txrvojhgklvowf",
+    "question": "道路交通事故的损失是由受害人故意造成的，保险公司不予赔偿。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "注意是“故意”的。",
     "count": 1,
-    "last_wrong": "2026-07-17 19:22:19.496613"
+    "last_wrong": "2026-07-17 19:43:53.206511"
+  },
+  {
+    "id": "20210125171551tkmdzae4sddk9twbpeawtb",
+    "question": "提供虚假材料申请驾驶证的申请人会承担下列哪种法律责任？",
+    "answer": "C",
+    "answer_text": "1年内不得再次申领驾驶证",
+    "explain": "假一吊二撤三醉五逃终生。",
+    "count": 1,
+    "last_wrong": "2026-07-17 19:46:56.123471"
+  },
+  {
+    "id": "20190410102538a1tj9bwltpwjjxv3h6rkty",
+    "question": "这个标志是何含义？",
+    "answer": "B",
+    "answer_text": "高速公路特殊天气建议速度",
+    "explain": "黄底黑字是建议速度。",
+    "count": 1,
+    "last_wrong": "2026-07-17 19:47:19.255686"
+  },
+  {
+    "id": "20190410102721u5mxj6urxcc9cpwbkeitqy",
+    "question": "右侧标志提示哪种车型不能通行？",
+    "answer": "C",
+    "answer_text": "各种机动车",
+    "explain": "红圈斜杠+小车正面，是禁止机动车通行标志。",
+    "count": 1,
+    "last_wrong": "2026-07-17 19:57:21.756081"
+  },
+  {
+    "id": "20220429143656djj89qgxpssdgcwk9tr7ip",
+    "question": "机动车已达到国家强制报废标准的，申请注销登记时应将机动车怎么处理？",
+    "answer": "A",
+    "answer_text": "交售给回收企业",
+    "explain": "申请报废的机动车应交给回收企业。",
+    "count": 1,
+    "last_wrong": "2026-07-17 19:58:19.793320"
+  },
+  {
+    "id": "20210330145716fxfeudtjvxbokcbrs2x8bp",
+    "question": "当车辆撞击无法避免时，驾驶人应当尽力避免正面碰撞。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "车辆的侧面碰撞安全防护性能比正面弱。",
+    "count": 1,
+    "last_wrong": "2026-07-17 19:58:31.474160"
+  },
+  {
+    "id": "20190410102812vhjdry7eebgoaxfnc98syn",
+    "question": "机动车按照规定借用非机动车道通行时应当避让非机动车，且最高时速不得超过每小时（ ）公里。",
+    "answer": "B",
+    "answer_text": "15",
+    "explain": "借用非机动车道，时速不能超15公里。",
+    "count": 1,
+    "last_wrong": "2026-07-17 19:59:18.825871"
+  },
+  {
+    "id": "20190410102735dbyxxvbsaa98qdiaei3cnf",
+    "question": "装有转向助力装置的机动车，驾驶人突然发现转向困难，操作费力，要紧握转向盘保持低速行驶。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "有安全隐患就不能继续行驶。",
+    "count": 1,
+    "last_wrong": "2026-07-17 20:00:21.660133"
   }
 ]
