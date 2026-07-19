@@ -1,74 +1,110 @@
 [
   {
-    "id": "20190410102522udjv52ujebv5yqxpr961sk",
-    "question": "使用其他机动车号牌、行驶证的一次记3分。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "使用伪造、变造的机动车号牌、行驶证、驾驶证、校车标牌或者使用其他机动车号牌、行驶证的，一次记12分。",
-    "count": 1,
-    "last_wrong": "2026-07-18 23:30:57.434646"
-  },
-  {
-    "id": "20190410102720rlurxakouw8c21eym91vbe",
-    "question": "右侧标志警告前方进入两侧变窄路段。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "警告驾驶人前方是窄桥，注意谨慎驾驶。",
-    "count": 1,
-    "last_wrong": "2026-07-18 23:31:41.522163"
-  },
-  {
-    "id": "201904101025463lvroxasq47wo8byfgg4n1",
-    "question": "以下交通标志中，表示禁止一切车辆和行人通行的是？",
-    "answer": "A",
-    "answer_text": "图1",
-    "explain": "红叉是禁停，空白是禁行，中间白一是禁驶。",
-    "count": 1,
-    "last_wrong": "2026-07-18 23:32:27.276919"
-  },
-  {
-    "id": "2019041010272673a9xvtpmvnpd3c4nkpzcu",
-    "question": "机动车行经没有交通信号的道路，遇行人横过道路时,以下做法错误的是什么？",
-    "answer": "A,B,D",
-    "answer_text": "鸣喇叭催促, 寻找间隙穿插驶过, 绕前通过",
-    "explain": "遇行人横穿道路，应减速或停车让行。",
-    "count": 1,
-    "last_wrong": "2026-07-18 23:35:01.659798"
-  },
-  {
-    "id": "20190410102735qya89hc3rraxphqkrhqwu5",
-    "question": "下坡路制动突然失效后，不可采用的办法是什么？",
-    "answer": "D",
-    "answer_text": "拉紧驻车制动器操纵杆或越二级挡位减挡",
-    "explain": "下坡路制动失效，不能拉手刹。",
-    "count": 1,
-    "last_wrong": "2026-07-18 23:36:27.092867"
-  },
-  {
-    "id": "202204111042212n6o8nwzzearpbyucvxkmf",
-    "question": "以下哪个代号表示中型载货汽车？",
-    "answer": "D",
-    "answer_text": "B2",
-    "explain": "",
-    "count": 1,
-    "last_wrong": "2026-07-18 23:41:28.111171"
-  },
-  {
     "id": "20201201144307yyp4shs6xfbfy1d39b1kyq",
     "question": "导致车辆倾翻的主要原因有哪些？",
     "answer": "A,B,C,D",
     "answer_text": "车速过快, 发生碰撞, 车辆驶离路面, 高速行驶时急转方向",
     "explain": "文明行车，安全第一。",
-    "count": 1,
-    "last_wrong": "2026-07-18 23:42:50.902244"
+    "count": 2,
+    "last_wrong": "2026-07-19 09:08:18.390210"
   },
   {
-    "id": "201904101025382jgadhek77d76bnboztxp9",
-    "question": "这个标志是何含义？",
-    "answer": "D",
-    "answer_text": "高速公路终点预告",
-    "explain": "高速公路的起点和终点标志，仅一线之差。",
+    "id": "20190410102734jajflpzxseezd4t8vqvns1",
+    "question": "驾驶机动车在高速公路行驶过程中，发现前方有动物突然横穿时，可以采取急转向的方式避让。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "高速行驶状态下，急转向可能会翻车。",
     "count": 1,
-    "last_wrong": "2026-07-18 23:43:28.265343"
+    "last_wrong": "2026-07-19 09:02:37.759666"
+  },
+  {
+    "id": "20190410102717hiqxqxzrftu1291sizcetn",
+    "question": "前方标志表示除大客车以外的其他车辆不准进入右侧车道行驶。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "其他车辆不准驶入公交车专用车道。",
+    "count": 1,
+    "last_wrong": "2026-07-19 09:03:06.131469"
+  },
+  {
+    "id": "20190410102713pxm7pfagibfxrs1avwqijy",
+    "question": "下列关于驾驶汽车突然变道加塞说法正确的是什么？",
+    "answer": "B,D",
+    "answer_text": "易引发交通事故, 造成道路拥堵",
+    "explain": "文明驾驶，安全第一。",
+    "count": 1,
+    "last_wrong": "2026-07-19 09:03:46.875085"
+  },
+  {
+    "id": "201904101025363jzmymktwsgd6ykb24nndr",
+    "question": "这个标志的含义是警告前方道路易滑，注意慢行。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "黄牌是警告标志，提醒驾驶人前方有反向弯路路段，注意谨慎慢行。",
+    "count": 1,
+    "last_wrong": "2026-07-19 09:05:57.198995"
+  },
+  {
+    "id": "20220429143656b8kn4w31abgvhhsyygqbsl",
+    "question": "初次申领机动车号牌、行驶证的，应当向哪个车辆管理所申请？",
+    "answer": "A",
+    "answer_text": "住所地车辆管理所",
+    "explain": "",
+    "count": 1,
+    "last_wrong": "2026-07-19 09:06:19.228936"
+  },
+  {
+    "id": "20190410102734t93w4p54qwsg1gwrw8e8dt",
+    "question": "在高速公路上除遇障碍、发生故障等必须停车外，不准停车上下人员或者装卸货物。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "高速公路上不能随便上下车、卸货。",
+    "count": 1,
+    "last_wrong": "2026-07-19 09:06:44.929210"
+  },
+  {
+    "id": "20190410102718wf4repujqzw5v3brqhdfdy",
+    "question": "这个标志警告前方铁路道口有多股铁路与道路相交。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "该标志是为警告驾驶人前方有多股铁路和道路相交。",
+    "count": 1,
+    "last_wrong": "2026-07-19 09:08:02.707555"
+  },
+  {
+    "id": "20190410102519yrnimy89cdwhwp5ta1zq6e",
+    "question": "机动车在抵押登记、质押备案期间不可以办理转让登记。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "抵押登记期间申请转让登记的，由原所有人、现所有人和抵押权人共同申请；质押备案期间申请转让登记的，由原所有人、现所有人和质权人共同申请。",
+    "count": 1,
+    "last_wrong": "2026-07-19 09:09:01.840192"
+  },
+  {
+    "id": "202103301455319mgsmignngu3mpesbtthfy",
+    "question": "路口最前端的双白虚线是停车让行线。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "靠近路口有三类白线：单白横实线是停止线；双白横实线是停车让行线；双白横虚线是减速让行线。",
+    "count": 1,
+    "last_wrong": "2026-07-19 09:14:14.320968"
+  },
+  {
+    "id": "20211210160207awniccemxvbrg9wdermck9",
+    "question": "图中标志表示该路段只供小型客车行驶。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "图中小车代表的是机动车，不仅是小型客车。",
+    "count": 1,
+    "last_wrong": "2026-07-19 09:14:56.908863"
+  },
+  {
+    "id": "20190410102728qvpubke11upeoc5cceh8ku",
+    "question": "驾驶机动车遇到这种情况要靠右侧停车等待。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "文明驾驶，礼貌让行。",
+    "count": 1,
+    "last_wrong": "2026-07-19 09:17:45.055729"
   }
 ]
