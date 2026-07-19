@@ -1,110 +1,65 @@
 [
   {
-    "id": "20201201144307yyp4shs6xfbfy1d39b1kyq",
-    "question": "导致车辆倾翻的主要原因有哪些？",
-    "answer": "A,B,C,D",
-    "answer_text": "车速过快, 发生碰撞, 车辆驶离路面, 高速行驶时急转方向",
-    "explain": "文明行车，安全第一。",
-    "count": 2,
-    "last_wrong": "2026-07-19 09:08:18.390210"
-  },
-  {
-    "id": "20190410102734jajflpzxseezd4t8vqvns1",
-    "question": "驾驶机动车在高速公路行驶过程中，发现前方有动物突然横穿时，可以采取急转向的方式避让。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "高速行驶状态下，急转向可能会翻车。",
-    "count": 1,
-    "last_wrong": "2026-07-19 09:02:37.759666"
-  },
-  {
-    "id": "20190410102717hiqxqxzrftu1291sizcetn",
-    "question": "前方标志表示除大客车以外的其他车辆不准进入右侧车道行驶。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "其他车辆不准驶入公交车专用车道。",
-    "count": 1,
-    "last_wrong": "2026-07-19 09:03:06.131469"
-  },
-  {
-    "id": "20190410102713pxm7pfagibfxrs1avwqijy",
-    "question": "下列关于驾驶汽车突然变道加塞说法正确的是什么？",
-    "answer": "B,D",
-    "answer_text": "易引发交通事故, 造成道路拥堵",
-    "explain": "文明驾驶，安全第一。",
-    "count": 1,
-    "last_wrong": "2026-07-19 09:03:46.875085"
-  },
-  {
-    "id": "201904101025363jzmymktwsgd6ykb24nndr",
-    "question": "这个标志的含义是警告前方道路易滑，注意慢行。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "黄牌是警告标志，提醒驾驶人前方有反向弯路路段，注意谨慎慢行。",
-    "count": 1,
-    "last_wrong": "2026-07-19 09:05:57.198995"
-  },
-  {
-    "id": "20220429143656b8kn4w31abgvhhsyygqbsl",
-    "question": "初次申领机动车号牌、行驶证的，应当向哪个车辆管理所申请？",
+    "id": "202204081925034ptd44kgrizqbptavny3da",
+    "question": "机动车驾驶人申请学法减分时，参加道路交通安全法律、法规和相关知识网上学习三日内累计满三十分钟且考试合格的，一次扣减几分？",
     "answer": "A",
-    "answer_text": "住所地车辆管理所",
+    "answer_text": "1分",
     "explain": "",
     "count": 1,
-    "last_wrong": "2026-07-19 09:06:19.228936"
+    "last_wrong": "2026-07-19 19:12:24.560159"
   },
   {
-    "id": "20190410102734t93w4p54qwsg1gwrw8e8dt",
-    "question": "在高速公路上除遇障碍、发生故障等必须停车外，不准停车上下人员或者装卸货物。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "高速公路上不能随便上下车、卸货。",
-    "count": 1,
-    "last_wrong": "2026-07-19 09:06:44.929210"
-  },
-  {
-    "id": "20190410102718wf4repujqzw5v3brqhdfdy",
-    "question": "这个标志警告前方铁路道口有多股铁路与道路相交。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "该标志是为警告驾驶人前方有多股铁路和道路相交。",
-    "count": 1,
-    "last_wrong": "2026-07-19 09:08:02.707555"
-  },
-  {
-    "id": "20190410102519yrnimy89cdwhwp5ta1zq6e",
-    "question": "机动车在抵押登记、质押备案期间不可以办理转让登记。",
+    "id": "20190410102811ughvaiqwxzimqxu6uwnwgy",
+    "question": "机动车在道路上临时停车应当按顺行方向停车，车身距道路边缘不超过50厘米。",
     "answer": "B",
     "answer_text": "错误",
-    "explain": "抵押登记期间申请转让登记的，由原所有人、现所有人和抵押权人共同申请；质押备案期间申请转让登记的，由原所有人、现所有人和质权人共同申请。",
+    "explain": "",
     "count": 1,
-    "last_wrong": "2026-07-19 09:09:01.840192"
+    "last_wrong": "2026-07-19 19:13:43.073239"
   },
   {
-    "id": "202103301455319mgsmignngu3mpesbtthfy",
-    "question": "路口最前端的双白虚线是停车让行线。",
+    "id": "20190410102521kgfnqtf7ykf1kescuxzuov",
+    "question": "驾驶机动车与行人之间发生交通事故造成人身伤亡、财产损失的，机动车一方没有过错的，不承担赔偿责任。",
     "answer": "B",
     "answer_text": "错误",
-    "explain": "靠近路口有三类白线：单白横实线是停止线；双白横实线是停车让行线；双白横虚线是减速让行线。",
+    "explain": "机动车与行人发生事故，机动车无过错的，要承担不超过10%的赔偿责任。",
     "count": 1,
-    "last_wrong": "2026-07-19 09:14:14.320968"
+    "last_wrong": "2026-07-19 19:16:15.270609"
   },
   {
-    "id": "20211210160207awniccemxvbrg9wdermck9",
-    "question": "图中标志表示该路段只供小型客车行驶。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "图中小车代表的是机动车，不仅是小型客车。",
+    "id": "20220331160352vxd7p5cmhtybztis5pjpg8",
+    "question": "3年内有下列哪种行为的人不得申请机动车驾驶证？",
+    "answer": "A",
+    "answer_text": "代替他人参加机动车驾驶人考试",
+    "explain": "替考3年内禁申领。",
     "count": 1,
-    "last_wrong": "2026-07-19 09:14:56.908863"
+    "last_wrong": "2026-07-19 19:20:57.843771"
   },
   {
-    "id": "20190410102728qvpubke11upeoc5cceh8ku",
-    "question": "驾驶机动车遇到这种情况要靠右侧停车等待。",
+    "id": "2019112619021847uwjl3scbbxqpdzzfturg",
+    "question": "图中这个标志提示前方路口只允许直行。",
     "answer": "A",
     "answer_text": "正确",
-    "explain": "文明驾驶，礼貌让行。",
+    "explain": "不能左转也不能右转，就只能直行。",
     "count": 1,
-    "last_wrong": "2026-07-19 09:17:45.055729"
+    "last_wrong": "2026-07-19 19:22:44.161004"
+  },
+  {
+    "id": "20220331160356orlablkr2jdns5qzhoaay",
+    "question": "机动车驾驶人请他人代为接受交通违法行为处罚和记分，并支付经济利益的，会被处以所支付经济利益几倍以下的罚款？",
+    "answer": "C",
+    "answer_text": "三倍",
+    "explain": "他人代扣牟利，3倍罚款12分。",
+    "count": 1,
+    "last_wrong": "2026-07-19 19:23:51.732578"
+  },
+  {
+    "id": "201904101025294ahzgnrcsdlxbch8mnbguq",
+    "question": "驾驶机动车通过窄路、窄桥时，最高速度不能超过多少？",
+    "answer": "D",
+    "answer_text": "30公里/小时",
+    "explain": "窄路、窄桥最高速度不得超30km/h。",
+    "count": 1,
+    "last_wrong": "2026-07-19 19:24:10.356321"
   }
 ]
