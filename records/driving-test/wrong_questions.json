@@ -1,74 +1,65 @@
 [
   {
-    "id": "201904101027279sephbhqmk3axpfmezywjv",
-    "question": "机动车驶离高速公路进入匝道后，要使车速降到限定时速以下。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "匝道有匝道的限速规定，应尽快降速。",
-    "count": 1,
-    "last_wrong": "2026-07-20 19:03:53.073545"
-  },
-  {
-    "id": "201904101027153po3mlt1zaxvvq8uevszb4",
-    "question": "右侧标志提醒前方是非机动车道。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "该标志是为警告驾驶人前方道路要注意非机动车，谨慎驾驶。",
-    "count": 1,
-    "last_wrong": "2026-07-20 19:04:29.693221"
-  },
-  {
-    "id": "20210513181617hfzyuhrnqdjtt8p73gmw92",
-    "question": "雪天在高速公路上驾驶时，关于安全车距正确的说法是什么?",
-    "answer": "A,B,D",
-    "answer_text": "雪天路滑，制动距离比干燥柏油路更长, 能见度小于50m时，应该驶离高速公路, 雪天能见度低，应该根据能见度控制安全距离",
-    "explain": "巧记：261、145、520（驶离）。",
-    "count": 1,
-    "last_wrong": "2026-07-20 19:06:11.305445"
-  },
-  {
-    "id": "20190410102532xq3g7dcrsqd9hdrwxufetx",
-    "question": "报考小型自动挡汽车准驾车型科目三考试的，应在取得学习驾驶证明满多少日后预约？",
-    "answer": "B",
-    "answer_text": "20",
-    "explain": "",
-    "count": 1,
-    "last_wrong": "2026-07-20 19:09:40.360388"
-  },
-  {
-    "id": "20200818173250kdyf9m5hkxquk4sm8p5dt",
-    "question": "申请人以欺骗、贿赂等不正当手段取得机动车驾驶证的，公安机关交通管理部门收缴机动车驾驶证，撤销机动车驾驶许可，并处多少元以下罚款？",
-    "answer": "D",
-    "answer_text": "2000元",
-    "explain": "欺骗、贿赂取得驾驶证，收缴驾驶证且3年不得再次申领，处罚款2000以下。",
-    "count": 1,
-    "last_wrong": "2026-07-20 19:27:27.732685"
-  },
-  {
-    "id": "20220416110440g8f9xpjftkkmzur523fan7",
-    "question": "以下选项中，前方防碰撞预警系统的英文缩写是什么？",
-    "answer": "D",
-    "answer_text": "FCW",
-    "explain": "",
-    "count": 1,
-    "last_wrong": "2026-07-20 19:30:51.533025"
-  },
-  {
-    "id": "20210125171551m7ju1njxq1czcnetq9eqhj",
-    "question": "车辆行至交叉路口，因前方大型客车遮挡视线，导致闯红灯，会受到什么处罚？",
-    "answer": "B",
-    "answer_text": "记6分",
-    "explain": "跟大车行驶，要注意保持安全车距。",
-    "count": 1,
-    "last_wrong": "2026-07-20 19:32:00.741447"
-  },
-  {
     "id": "20190410102733byaforqzn9pxthcp1pegqn",
     "question": "机动车在高速公路上行驶，遇有雾、雨、雪且能见度在100米至200米之间时，应该怎么做？",
     "answer": "A,B,C",
     "answer_text": "开启雾灯、近光灯、示廓灯、前后位灯, 车速不超过60km/h, 与同车道前车保持100米以上的距离",
     "explain": "巧记：261、145、520（驶离）。",
+    "count": 2,
+    "last_wrong": "2026-07-21 08:36:58.483210"
+  },
+  {
+    "id": "20190410102546js2dsdjpzf4tv8wsylw9pr",
+    "question": "以下哪个标志，表示干路先行？",
+    "answer": "D",
+    "answer_text": "图4",
+    "explain": "粗箭头加一道横线，是干路先行标志。",
     "count": 1,
-    "last_wrong": "2026-07-20 19:32:24.431470"
+    "last_wrong": "2026-07-21 08:25:27.791672"
+  },
+  {
+    "id": "20190410102522xrjkfgmsqquwm8uartnk8c",
+    "question": "如图所示，这个标志设置在有人看守的铁路道口，提示驾驶人距有人看守的铁路道口的距离还有100米。",
+    "answer": "B",
+    "answer_text": "错误",
+    "explain": "标志内是火车表示无人看守，是栅栏就表示有人看守。一道红色斜杠表示距离50米。",
+    "count": 1,
+    "last_wrong": "2026-07-21 08:29:28.254693"
+  },
+  {
+    "id": "20191126190217vgfgqyqaqhltimtbnfs6if",
+    "question": "请判断一下图中红色机动车有几种违法行为？",
+    "answer": "C",
+    "answer_text": "三种违法行为",
+    "explain": "变道要提前开启转向灯，实线不可跨越。",
+    "count": 1,
+    "last_wrong": "2026-07-21 08:31:14.077498"
+  },
+  {
+    "id": "20190410102557roby5wg3ec3a4qxohrzvp3",
+    "question": "行车中仪表板上（如图所示）亮表示什么？",
+    "answer": "B",
+    "answer_text": "发动机温度过高",
+    "explain": "发动机温度过高，可能是冷却液不足。",
+    "count": 1,
+    "last_wrong": "2026-07-21 08:37:11.045820"
+  },
+  {
+    "id": "201904101027313cykwnazx78jhzstrsgsej",
+    "question": "在冰雪路面制动时，发现车辆偏离方向，以下做法正确的是？",
+    "answer": "C",
+    "answer_text": "停止踩刹车",
+    "explain": "这种情况下，紧急刹车很容易导致侧翻。",
+    "count": 1,
+    "last_wrong": "2026-07-21 08:39:09.579781"
+  },
+  {
+    "id": "20190410102544cwe2cv2kr2udzyysdalsvt",
+    "question": "这一组交通警察手势是什么信号？",
+    "answer": "C",
+    "answer_text": "变道信号",
+    "explain": "巧记：右臂横摆是变道。",
+    "count": 1,
+    "last_wrong": "2026-07-21 08:40:24.908662"
   }
 ]
