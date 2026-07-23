@@ -11,6 +11,7 @@
 | 🎯 QQ Bot 图题答题 | `skills/messaging/qq-bot-image-quiz/` | QQ机器人图题问答流程：发图 + InlineKeyboard按钮 + 回调轮询完整方案 |
 | 🚦 知识验证门禁 | `skills/productivity/knowledge-gate-system/` | 前置知识验证门禁：全自动 QQ 按钮答题循环、错题跟踪、Cron 联动、成都/四川科目一地区过滤 |
 | 📰 新闻去重追踪 | `skills/cron/news-dedup-tracker/` | 基于文件的新闻推送去重系统：历史记录、标题/URL/事件匹配、自动裁剪200条上限、配套 news-track.py 脚本 |
+| 🐦 Hermes Tweet | `skills/social-media/hermes-tweet/` | X/Twitter 搜索、推文读取、账号监控、followers/following 导出和显式批准后的动作 |
 
 ---
 
@@ -30,6 +31,10 @@ hermes skills install \
 hermes skills install \
   https://raw.githubusercontent.com/wyp1157/hermes-skills/main/skills/cron/news-dedup-tracker/SKILL.md \
   --name news-dedup-tracker
+
+hermes skills install \
+  https://raw.githubusercontent.com/wyp1157/hermes-skills/main/skills/social-media/hermes-tweet/SKILL.md \
+  --name hermes-tweet
 ```
 
 安装后 Hermes Agent 自动加载该技能，在相关场景下会按技能指引工作。
@@ -81,6 +86,18 @@ cd hermes-skills
 4. 自动裁剪历史记录到最近 200 条
 
 **详细内容**：参见 `skills/cron/news-dedup-tracker/SKILL.md`
+
+### Hermes Tweet
+
+**场景**：需要让 Hermes Agent 搜索 X/Twitter、读取推文回复、查询用户资料、监控账号或导出 followers/following。
+
+**核心流程**：
+1. 安装原生插件 `Xquik-dev/hermes-tweet`
+2. 把 `XQUIK_API_KEY` 放在 Hermes 运行环境中，不写入聊天或工具参数
+3. 用 `tweet_read` 完成读取任务
+4. 只有用户明确批准时才使用 `tweet_action`
+
+**详细内容**：参见 `skills/social-media/hermes-tweet/SKILL.md`
 
 ---
 
