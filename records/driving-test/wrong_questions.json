@@ -1,39 +1,12 @@
 [
   {
-    "id": "20190410102733gifb9ofzhxpysaueanvz6h",
-    "question": "雨天遇到这种行人占道行走时怎样通行？",
-    "answer": "A,B,C,D",
-    "answer_text": "提前减速行驶, 提前鸣喇叭提醒, 不得急加速绕行, 保持安全间距",
-    "explain": "雨天行车，应减速慢行。",
-    "count": 1,
-    "last_wrong": "2026-07-23 08:32:06.042029"
-  },
-  {
     "id": "20200618184253uyepsettehgrvguwwwth2a",
     "question": "使用软连接牵引装置时，牵引车与被牵引车之间应当保持多远距离？",
     "answer": "C",
     "answer_text": "大于4米小于10米",
     "explain": "被牵引的机动车宽度不得大于牵引机动车的宽度。",
     "count": 1,
-    "last_wrong": "2026-07-23 08:32:55.715233"
-  },
-  {
-    "id": "20190410102546gwun567jdr6vxxpd5ckwy3",
-    "question": "这一组交通警察手势是什么信号？",
-    "answer": "D",
-    "answer_text": "右转弯信号",
-    "explain": "巧记：左手平伸，右手摆动向右行。",
-    "count": 1,
-    "last_wrong": "2026-07-23 08:35:05.549713"
-  },
-  {
-    "id": "20211012173352hhuslomzap1awyecdwq4dz",
-    "question": "图中标志提醒驾驶人前方车辆最高限速为80公里/小时。",
-    "answer": "B",
-    "answer_text": "错误",
-    "explain": "看标志内数字的颜色：黄高白低黑建议。",
-    "count": 1,
-    "last_wrong": "2026-07-23 08:37:11.348738"
+    "last_wrong": "2026-07-23 19:36:23.511305"
   },
   {
     "id": "20190410102730wr8hrkmhusv6umeotqp2r9",
@@ -42,7 +15,25 @@
     "answer_text": "应急车道",
     "explain": "应急车道就是提供给紧急故障车辆停放的。",
     "count": 1,
-    "last_wrong": "2026-07-23 08:38:11.454238"
+    "last_wrong": "2026-07-23 19:38:02.779066"
+  },
+  {
+    "id": "20200706191831haqejqfyma1qpz74b4ah7g",
+    "question": "驾驶未安装制动防抱死装置（ABS）的机动车，在冰雪路面制动时，应轻踏或间歇踩踏制动踏板。",
+    "answer": "A",
+    "answer_text": "正确",
+    "explain": "未装ABS的车辆在冰雪路面行驶，轻踏或间断踩踏制动踏板是最安全的。",
+    "count": 1,
+    "last_wrong": "2026-07-23 19:39:10.735577"
+  },
+  {
+    "id": "20210601102119qhr5qa9gurejhjmgwwo2r9",
+    "question": "造成交通事故后逃逸，尚不构成犯罪的，公安机关交通管理部门除按照规定罚款外，还可以并处（ ）？",
+    "answer": "B",
+    "answer_text": "15日以下拘留",
+    "explain": "构成犯罪的，将依法追究刑事责任。",
+    "count": 1,
+    "last_wrong": "2026-07-23 19:39:54.923549"
   },
   {
     "id": "20220420094351rvpgqcr4ywmu3ndm23pbwz",
@@ -51,60 +42,6 @@
     "answer_text": "AFS",
     "explain": "",
     "count": 1,
-    "last_wrong": "2026-07-23 08:39:20.667737"
-  },
-  {
-    "id": "20211124155552pzpxhrstbbkgv5iwvuqwvr",
-    "question": "公路客运车辆载客超过核定乘员，公安机关交通管理部门依法扣留机动车后，驾驶人应当将超载的乘车人转运，费用由谁承担？",
-    "answer": "B",
-    "answer_text": "超载机动车的驾驶人或者所有人",
-    "explain": "违反了《道路交通安全法》，就要承担后果。",
-    "count": 1,
-    "last_wrong": "2026-07-23 08:40:50.832869"
-  },
-  {
-    "id": "20190410102528uagnpbsksi9bwcdrfx1ek8",
-    "question": "驾驶人在驾驶证有效期满前多长时间申请换证？",
-    "answer": "C",
-    "answer_text": "90日内",
-    "explain": "换证：有效期满前90日内，信息变更是30日内。",
-    "count": 1,
-    "last_wrong": "2026-07-23 08:43:52.541506"
-  },
-  {
-    "id": "20190410102726vbyqimagjzzplteetqc4hi",
-    "question": "发现前方机动车停车排队缓慢行驶时，属于交通陋习的是什么行为？",
-    "answer": "A",
-    "answer_text": "加塞抢行",
-    "explain": "加塞抢行可能导致更严重的拥堵。",
-    "count": 1,
-    "last_wrong": "2026-07-23 08:44:33.612093"
-  },
-  {
-    "id": "20210621155113hta7ujwrzzhu3xrcnzvw8s",
-    "question": "李某无证驾驶摩托车在同向1条车道的城市道路上以50公里/时的速度行驶，遇前方交通拥堵，在借道超车过程中与同向行驶的陈某驾驶的小型客车发生侧面碰撞。这起事故中的主要违法行为有哪些?",
-    "answer": "A,C,D",
-    "answer_text": "李某无证驾驶, 李某超速驾驶, 李某违法超车",
-    "explain": "无中心线城3公4，有中心线城5公7。",
-    "count": 1,
-    "last_wrong": "2026-07-23 08:46:29.455111"
-  },
-  {
-    "id": "20190410102541chiqnwtqjbgdhzaxgrhvky",
-    "question": "这个标志是何含义？",
-    "answer": "C",
-    "answer_text": "注意落石",
-    "explain": "多设在有落石危险的傍山路段。",
-    "count": 1,
-    "last_wrong": "2026-07-23 08:47:42.194748"
-  },
-  {
-    "id": "201904101027235uetyxjl1muubbskobcxpz",
-    "question": "行车中遇到这种行人需要保持较大的安全距离。",
-    "answer": "A",
-    "answer_text": "正确",
-    "explain": "驾驶机动车，要注意避让行人。",
-    "count": 1,
-    "last_wrong": "2026-07-23 08:48:06.403245"
+    "last_wrong": "2026-07-23 19:41:50.227351"
   }
 ]
